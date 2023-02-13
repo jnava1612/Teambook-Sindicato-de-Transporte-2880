@@ -4,28 +4,28 @@ This chapter is about some useful mathematical tools needed in order to solve pr
 
 In order to find the greatest common divisor (GCD) of two numbers, the Euclidean algorithm can be used. The implementation is as follows:
 
-\lstinputlisting{Mathematics/Euclid.cpp}
+\lstinputlisting{../Mathematics/Euclid.cpp}
 
 Another (and faster) way to find the GCD is by using the following code:
 
-\lstinputlisting{Mathematics/FastGCD.cpp}
+\lstinputlisting{../Mathematics/FastGCD.cpp}
 
 The way Halim suggests to find the GCD and the LCM is given by the following code:
 
-\lstinputlisting{Mathematics/HalimGCD.cpp}
+\lstinputlisting{../Mathematics/HalimGCD.cpp}
 
 \section{Prime Numbers}
 
 The fastest way to check the primality of a number is by using Erathostenes' sieve. The typical implementation is as follows:
 
-\lstinputlisting{Mathematics/Erathostenes.cpp}
+\lstinputlisting{../Mathematics/Erathostenes.cpp}
 
 Nevertheless, the following implementation is faster, since  the statement if \begin{verbatim}
 if (i % prime[j] == 0) break;
 \end{verbatim}
  terminates the loop when p divides i. The inner loop is executed only once for each composite. Hence, the code performs in O(n) complexity, resulting in the 'linear' sieve:
 
-\lstinputlisting{Mathematics/LinearSieve.cpp}
+\lstinputlisting{../Mathematics/LinearSieve.cpp}
 
 
 %\VerbatimInput{Graphs/BFS.cpp}

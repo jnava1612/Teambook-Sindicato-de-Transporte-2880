@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  13 FEB 2023 00:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  13 FEB 2023 00:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Teambook.tex
-(c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Teambook.tex
+**c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex
+(c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-02> (c:/texlive/2022/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
@@ -476,9 +476,9 @@ LaTeX Warning: No \author given.
 
 ]
 Chapter 1.
-(./Mathematics/Math.tex (./Mathematics/Euclid.cpp) (./Mathematics/FastGCD.cpp) (./Mathematics/HalimGCD.cpp) (./Mathematics/Erathostenes.cpp [5]) (./Mathematics/LinearSieve.cpp)) [6]
+(../Mathematics/Math.tex (../Mathematics/Euclid.cpp) (../Mathematics/FastGCD.cpp) (../Mathematics/HalimGCD.cpp) (../Mathematics/Erathostenes.cpp [5]) (../Mathematics/LinearSieve.cpp)) [6]
 Chapter 2.
-(./Graphs/Graphs.tex
+(../Graphs/Graphs.tex
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 8.
 
 
@@ -487,22 +487,22 @@ LaTeX Warning: Float too large for page by 70.56041pt on input line 58.
 
 LaTeX Warning: Float too large for page by 70.56041pt on input line 119.
 
-(./Graphs/BFS.cpp)) [7
+(../Graphs/BFS.cpp)) [7
 
 ] [8] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: AB77032D60FAC6D5A9DF0DBBCB3A4142;796.
  ) 
 Here is how much of TeX's memory you used:
- 14610 strings out of 476064
- 222534 string characters out of 5794894
+ 14608 strings out of 476064
+ 222588 string characters out of 5794894
  2346340 words of memory out of 5000000
- 34647 multiletter control sequences out of 15000+600000
+ 34645 multiletter control sequences out of 15000+600000
  521877 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,381b,1965s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,76p,395b,1965s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Teambook.pdf (8 pages, 161749 bytes).
+Output written on Teambook.pdf (8 pages, 161759 bytes).
 PDF statistics:
  296 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams

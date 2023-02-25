@@ -4,4 +4,4 @@
 \contentsline {section}{\numberline {1.2}Prime Numbers}{5}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Graphs}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Depth First Search (DFS)}{7}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Breadth First Search (BFS)}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.2}Breadth First Search (BFS)}{9}{section.2.2}%

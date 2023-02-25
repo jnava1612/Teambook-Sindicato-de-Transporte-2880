@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  24 FEB 2023 20:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  24 FEB 2023 20:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -486,28 +486,34 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 
 LaTeX Warning: Float too large for page by 70.56041pt on input line 58.
 
+(../Graphs/DFS.cpp) (../Graphs/DFS-application.cpp [7
 
-LaTeX Warning: Float too large for page by 70.56041pt on input line 119.
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(../Graphs/BFS.cpp)) [7
+ [8])
 
-] [8] (./Teambook.aux)
+LaTeX Warning: Float too large for page by 70.56041pt on input line 124.
+
+(../Graphs/BFS.cpp [9])) [10
+
+] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: AB77032D60FAC6D5A9DF0DBBCB3A4142;796.
  ) 
 Here is how much of TeX's memory you used:
- 14594 strings out of 476064
- 222554 string characters out of 5794894
+ 14739 strings out of 476064
+ 224530 string characters out of 5794894
  2346340 words of memory out of 5000000
- 34635 multiletter control sequences out of 15000+600000
+ 34679 multiletter control sequences out of 15000+600000
  517531 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,395b,1965s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,76p,395b,1969s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Teambook.pdf (8 pages, 353235 bytes).
+Output written on Teambook.pdf (10 pages, 364701 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
- 150 named destinations out of 1000 (max. 500000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 378 compressed objects within 4 object streams
+ 245 named destinations out of 1000 (max. 500000)
  54 words of extra memory for PDF output out of 10000 (max. 10000000)
 

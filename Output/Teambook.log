@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  13 FEB 2023 00:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  24 FEB 2023 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,26 +448,28 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
+<../Figures/LogoSdT2880.png, id=28, 602.25pt x 429.605pt>
+File: ../Figures/LogoSdT2880.png Graphic file (type png)
+<use ../Figures/LogoSdT2880.png>
+Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
+(pdftex.def)             Requested size: 398.33858pt x 284.15636pt.
+ [1
+
+
+
+{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Figures/LogoSdT2880.png>] [2
+
+
+
+] (./Teambook.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: No \author given.
-
-[1
-
-
-
-{c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-
-
-] (./Teambook.toc)
+))
 \tf@toc=\write5
 \openout5 = `Teambook.toc'.
 
@@ -494,18 +496,18 @@ Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: AB77032D60FAC6D5A9DF0DBBCB3A4142;796.
  ) 
 Here is how much of TeX's memory you used:
- 14608 strings out of 476064
- 222588 string characters out of 5794894
+ 14594 strings out of 476064
+ 222554 string characters out of 5794894
  2346340 words of memory out of 5000000
- 34645 multiletter control sequences out of 15000+600000
- 521877 words of font info for 69 fonts, out of 8000000 for 9000
+ 34635 multiletter control sequences out of 15000+600000
+ 517531 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,395b,1965s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Teambook.pdf (8 pages, 161759 bytes).
+<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Teambook.pdf (8 pages, 353235 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 261 compressed objects within 3 object streams
+ 294 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
  150 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -20,7 +20,8 @@ The fastest way to check the primality of a number is by using Erathostenes' sie
 
 \lstinputlisting{../Mathematics/Erathostenes.cpp}
 
-Nevertheless, the following implementation is faster, since  the statement if \begin{verbatim}
+Nevertheless, the following implementation is faster, since  the statement if 
+\begin{verbatim}
 if (i % prime[j] == 0) break;
 \end{verbatim}
  terminates the loop when p divides i. The inner loop is executed only once for each composite. Hence, the code performs in O(n) complexity, resulting in the 'linear' sieve:
@@ -29,3 +30,30 @@ if (i % prime[j] == 0) break;
 
 
 %\VerbatimInput{Graphs/BFS.cpp}
+
+
+\section{Modular Arithmetic}
+
+The modular inverse is defined by the following equation:
+
+\begin{equation}
+a \cdot a^{-1} \equiv 1 \mod m
+\end{equation}
+
+The following code shows how to find the modular inverse of a number:
+
+\lstinputlisting{../Mathematics/ModularInverse.cpp}
+
+Some of the other useful relationships in mosular arithmetic are:
+
+\begin{itemize}
+\item $ (a+b) \mod m = (a \mod m + b \mod m) \mod m $
+\item $ (a-b) \mod m = (a \mod m - b \mod m) \mod m $
+\item $ (a*b) \mod m = (a \mod m * b \mod m) \mod m $
+\item $ (a/b) \mod m = (a \mod m * b^{-1} \mod m) \mod m $
+\item $ (a^b) \mod m = (a \mod m)^b \mod m $
+\item $ (a^b) \mod m = (a \mod m)^{b \mod \phi(m)} \mod m $
+\item $ (a^b) \mod m = (a \mod m)^{b \mod (m-1)} \mod m $
+\item $ \frac{a}{k} \equiv \frac{a}{k} \mod m \iff a \equiv k \mod m $
+\item $ \frac{a}{k} \equiv \frac{a}{k} \left( \mod \frac{n}{\gcd (n,k)}\right)$
+\end{itemize}

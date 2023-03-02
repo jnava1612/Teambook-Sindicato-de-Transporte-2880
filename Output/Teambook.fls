@@ -819,6 +819,12 @@ INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
+INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/Dinic.cpp
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

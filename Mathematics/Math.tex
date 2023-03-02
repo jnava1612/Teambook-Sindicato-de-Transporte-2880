@@ -44,7 +44,7 @@ The following code shows how to find the modular inverse of a number:
 
 \lstinputlisting{../Mathematics/ModularInverse.cpp}
 
-Some of the other useful relationships in mosular arithmetic are:
+Some other useful relationships in modular arithmetic are:
 
 \begin{itemize}
 \item $ (a+b) \mod m = (a \mod m + b \mod m) \mod m $
@@ -57,3 +57,10 @@ Some of the other useful relationships in mosular arithmetic are:
 \item $ \frac{a}{k} \equiv \frac{a}{k} \mod m \iff a \equiv k \mod m $
 \item $ \frac{a}{k} \equiv \frac{a}{k} \left( \mod \frac{n}{\gcd (n,k)}\right)$
 \end{itemize}
+
+
+\section{Matrix Exponentiation}
+
+The following code shows how to find the nth power of a \textit{mat}, noting that a data structure of type matrix is defined as follows:
+
+\lstinputlisting{../Mathematics/MatrixPower.cpp}

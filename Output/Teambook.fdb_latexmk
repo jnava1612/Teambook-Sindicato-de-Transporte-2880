@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1677775358 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1677775361 0
+["pdflatex"] 1677814708 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1677814710 0
   "../Figures/LogoSdT2880.png" 1677284091 215887 1927e5495c56c72a6e1eac555f90a9ff ""
   "../Graphs/BFS.cpp" 1675984802 632 c35553650dd8572afa77cb8e9e1718fe ""
   "../Graphs/DFS-application.cpp" 1677285159 1360 92e45b56820f33784064c6d5f136a227 ""
   "../Graphs/DFS.cpp" 1677285494 664 7991f62a9c424ad2e4db412652539d3f ""
   "../Graphs/Dinic.cpp" 1677775356 1549 1ed4228f8fdfb5102f27cc4a3e1073cd ""
-  "../Graphs/Graphs.tex" 1677775118 4375 efd20e431fc8c0d930a3956a93d76d03 ""
+  "../Graphs/Graphs.tex" 1677814703 6239 123ea4bf87abf42d45781f6e239bbb43 ""
   "../Mathematics/Erathostenes.cpp" 1676260567 477 c87fe748914bd91dade901b6a9b87db0 ""
   "../Mathematics/Euclid.cpp" 1676261443 236 8e07d6b3a3467829d69dccecf03ecff6 ""
   "../Mathematics/FastGCD.cpp" 1676258277 288 68eba1e3414b8fca1ae3627abbaa4465 ""
@@ -15,10 +15,10 @@
   "../Mathematics/MatrixPower.cpp" 1676258200 640 513e943e990556069a2ff01fadb680d6 ""
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1677775361 2434 f066e0d17735f55f0ce10ddadbadebc8 "pdflatex"
-  "Teambook.out" 1677775361 1288 68d6a2fa0ad1e6963db7b99982a444ff "pdflatex"
+  "Teambook.aux" 1677814710 2726 2200e9015bdd25736fd9f60ce0b759b5 "pdflatex"
+  "Teambook.out" 1677814710 1375 1bc69c3a8343580bdbb3153a72bde4f9 "pdflatex"
   "Teambook.tex" 1677772503 2380 f295346776a4fbb74d09b12e9eb5af2c ""
-  "Teambook.toc" 1677775361 765 e252e5e777f22f36b17e71a48f016439 "pdflatex"
+  "Teambook.toc" 1677814710 841 b6dddeec0af14c91e49ef6ab80233fa2 "pdflatex"
   "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1677772503 2380 f295346776a4fbb74d09b12e9eb5af2c ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  2 MAR 2023 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  2 MAR 2023 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-<../Figures/LogoSdT2880.png, id=44, 602.25pt x 429.605pt>
+<../Figures/LogoSdT2880.png, id=48, 602.25pt x 429.605pt>
 File: ../Figures/LogoSdT2880.png Graphic file (type png)
 <use ../Figures/LogoSdT2880.png>
 Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
@@ -509,25 +509,27 @@ LaTeX Warning: Float too large for page by 70.56041pt on input line 124.
 (../Graphs/BFS.cpp [13]) (../Graphs/Dinic.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])) [15
+ [14])
 
-] (./Teambook.aux)
+LaTeX Warning: Float too large for page by 69.4493pt on input line 199.
+
+) [15] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 68D6A2FA0AD1E6963DB7B99982A444FF;1288.
+(rerunfilecheck)             Checksum: 1BC69C3A8343580BDBB3153A72BDE4F9;1375.
  ) 
 Here is how much of TeX's memory you used:
- 15163 strings out of 476064
- 229898 string characters out of 5794894
- 2547340 words of memory out of 5000000
- 34880 multiletter control sequences out of 15000+600000
- 518212 words of font info for 54 fonts, out of 8000000 for 9000
+ 15169 strings out of 476064
+ 229983 string characters out of 5794894
+ 2506340 words of memory out of 5000000
+ 34884 multiletter control sequences out of 15000+600000
+ 518817 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,395b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (15 pages, 443242 bytes).
+Output written on Teambook.pdf (15 pages, 445622 bytes).
 PDF statistics:
- 732 PDF objects out of 1000 (max. 8388607)
- 674 compressed objects within 7 object streams
- 453 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 738 PDF objects out of 1000 (max. 8388607)
+ 680 compressed objects within 7 object streams
+ 455 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

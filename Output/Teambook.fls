@@ -819,6 +819,8 @@ INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
 INPUT ../Graphs/BFS.cpp
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp

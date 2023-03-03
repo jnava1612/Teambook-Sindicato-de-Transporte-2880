@@ -133,6 +133,68 @@ The implementation can be done as follows:
 
 \section{Flows}
 
-One of the useful flows algorithms is Dinic, which allows to find the maximum flow that could go through the system of nodes. This code is initially done for a directioned graph with many nodes. The implementation of this algorithm is:
+The flow is a concept that is used in many algorithms, it is used to find the maximum flow that could go through a system of nodes.
+
+\subsection{Dinic}
+
+The Dinic algorithm is a useful algorithm to find the maximum flow that could go through a system of nodes. The implementation of this algorithm is:
 
 \lstinputlisting{../Graphs/Dinic.cpp}
+
+This implementation is done in order to do the Dinic algorithm for a graph with a large number of nodes.
+
+This algorithm is based on the idea of the BFS algorithm, it is used to find the shortest path between two nodes, in this case, the shortest path between the source and the sink. The algorithm is as follows:
+
+\begin{algorithm}
+\caption{Dinic}
+\label{alg:dinic}
+\begin{algorithmic}[1]
+\Procedure{Dinic}{$G$}
+\State $visited \gets \emptyset$
+\State $time \gets 0$
+\State $parent \gets \emptyset$
+\State $low \gets \emptyset$
+\State $disc \gets \emptyset$
+\State $AP \gets \emptyset$
+\State $bridge \gets \emptyset$
+\ForAll{$v \in V$}
+\State $visited[v] \gets false$
+\State $parent[v] \gets -1$
+\State $low[v] \gets \infty$
+\State $disc[v] \gets \infty$
+\EndFor
+\ForAll{$v \in V$}
+\If{$visited[v] = false$}
+\State DinicUtil($G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$)
+\EndIf
+\EndFor
+\EndProcedure
+\Procedure{DinicUtil}{$G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$}
+\State $visited[v] \gets true$
+\State $disc[v] \gets time$
+\State $low[v] \gets time$
+\State $time \gets time + 1$
+\State $children \gets 0$
+\ForAll{$u \in Adj(v)$}
+\If{$visited[u] = false$}
+\State $parent[u] \gets v$
+\State $children \gets children + 1$
+\State DinicUtil($G$, $u$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$)
+\State $low[v] \gets min(low[v], low[u])$
+\If{$parent[v] = -1$ and $children > 1$}
+\State $AP[v] \gets true$
+\EndIf
+\If{$parent[v] != -1$ and $low[u] \geq disc[v]$}
+\State $AP[v] \gets true$
+\EndIf
+\If{$low[u] > disc[v]$}
+\State $bridge[v][u] \gets true$
+\EndIf
+\Else
+\State $low[v] \gets min(low[v], disc[u])$
+\EndIf
+\EndFor
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+

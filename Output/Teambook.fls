@@ -827,6 +827,17 @@ INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Graphs/FordFulkerson.cpp
+INPUT ../Figures/ford_fulkerson11.png
+INPUT ../Figures/ford_fulkerson11.png
+INPUT ../Figures/ford_fulkerson11.png
+INPUT ../Figures/ford_fulkerson11.png
+INPUT ../Figures/ford_fulkerson11.png
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

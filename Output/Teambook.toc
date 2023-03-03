@@ -14,3 +14,4 @@
 \contentsline {section}{\numberline {3.4}Flows}{16}{section.3.4}%
 \contentsline {subsection}{\numberline {3.4.1}Dinic}{16}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Ford Fulkerson}{17}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Dijkstra}{20}{section.3.5}%

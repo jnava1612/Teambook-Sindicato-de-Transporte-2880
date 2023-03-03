@@ -862,6 +862,12 @@ INPUT ../Graphs/Dijkstra.cpp
 INPUT ../Graphs/Dijkstra.cpp
 INPUT ../Graphs/Dijkstra.cpp
 INPUT ../Graphs/Dijkstra.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/Dijkstra-Mod.cpp
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

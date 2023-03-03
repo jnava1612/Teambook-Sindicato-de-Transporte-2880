@@ -827,6 +827,12 @@ INPUT ../Graphs/FindBridges.cpp
 INPUT ../Graphs/FindBridges.cpp
 INPUT ../Graphs/FindBridges.cpp
 INPUT ../Graphs/FindBridges.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
+INPUT ../Graphs/FindArticulationPoints.cpp
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp
 INPUT ../Graphs/Dinic.cpp

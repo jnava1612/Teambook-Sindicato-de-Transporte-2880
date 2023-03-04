@@ -17,3 +17,34 @@ Some of the algorithms and implementations are as follows:
 \lstinputlisting{../DP/dp7.cpp}
 
 \lstinputlisting{../DP/dp8.cpp}
+
+\section{Knapsack Problem}
+
+The knapsack problem is a problem that consists of finding the maximum value of a set of items that can be placed in a knapsack of a given weight. The problem can be solved using Dynamic Programming.
+
+The implementation can be done as follows:
+
+\lstinputlisting{../DP/knapsack.cpp}
+
+\section{Divide and Conquer}
+
+The divide and conquer algorithm is a recursive algorithm that divides the problem into smaller subproblems and solves them recursively. The algorithm is as follows:
+
+\begin{algorithm}
+\caption{Divide and Conquer}
+\label{alg:divideandconquer}
+\begin{algorithmic}[1]
+\Procedure{DivideAndConquer}{$A$}
+\If{$A$ has only one element}
+\State return $A$
+\EndIf
+\State $B \gets DivideAndConquer($A[0..n/2]$)$
+\State $C \gets DivideAndConquer($A[n/2+1..n]$)$
+\State return $Merge(B, C)$
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+The implementation can be done as follows:
+
+\lstinputlisting{../DP/DivideAndConquer.cpp}

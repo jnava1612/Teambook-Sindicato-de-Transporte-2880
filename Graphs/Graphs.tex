@@ -295,3 +295,45 @@ The Dijkstra algorithm is a useful algorithm to find the shortest path between t
 Another implementation of this algorithm is the one that is done using a priority queue, the implementation of this algorithm is:
 
 \lstinputlisting{../Graphs/Dijkstra-Mod.cpp}
+
+\section{Bellman Ford}
+
+The Bellman Ford algorithm is a useful algorithm to find the shortest path between two nodes. Bellman Ford diferenctiates from Dijkstra in the fact that it can be used in graphs with negative edges. The algorithm is as follows:
+
+\begin{algorithm}
+\caption{Bellman Ford}
+\label{alg:bellman_ford}
+\begin{algorithmic}[1]
+\Procedure{BellmanFord}{$G$}
+\State $dist \gets \emptyset$
+\State $parent \gets \emptyset$
+\ForAll{$v \in V$}
+\State $dist[v] \gets \infty$
+\State $parent[v] \gets -1$
+\EndFor
+\State $dist[s] \gets 0$
+\For{$i = 0$ to $|V| - 1$}
+\ForAll{$v \in V$}
+\ForAll{$u \in Adj(v)$}
+\If{$dist[u] > dist[v] + w(v, u)$}
+\State $dist[u] \gets dist[v] + w(v, u)$
+\State $parent[u] \gets v$
+\EndIf
+\EndFor
+\EndFor
+\EndFor
+\ForAll{$v \in V$}
+\ForAll{$u \in Adj(v)$}
+\If{$dist[u] > dist[v] + w(v, u)$}
+\State $dist[u] \gets -\infty$
+\State $parent[u] \gets -1$
+\EndIf
+\EndFor
+\EndFor
+\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+The implementation of this algorithm is:
+
+\lstinputlisting{../Graphs/BellmanFord.cpp}

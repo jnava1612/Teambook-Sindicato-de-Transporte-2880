@@ -868,6 +868,12 @@ INPUT ../Graphs/Dijkstra-Mod.cpp
 INPUT ../Graphs/Dijkstra-Mod.cpp
 INPUT ../Graphs/Dijkstra-Mod.cpp
 INPUT ../Graphs/Dijkstra-Mod.cpp
+INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/BellmanFord.cpp
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex

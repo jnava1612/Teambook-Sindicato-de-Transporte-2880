@@ -15,6 +15,7 @@
 \contentsline {subsection}{\numberline {3.4.1}Dinic}{16}{subsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.4.2}Ford Fulkerson}{17}{subsection.3.4.2}%
 \contentsline {section}{\numberline {3.5}Dijkstra}{20}{section.3.5}%
-\contentsline {chapter}{\numberline {4}Dynamic Programming}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Knapsack Problem}{26}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Divide and Conquer}{27}{section.4.2}%
+\contentsline {section}{\numberline {3.6}Bellman Ford}{21}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Dynamic Programming}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Knapsack Problem}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Divide and Conquer}{29}{section.4.2}%

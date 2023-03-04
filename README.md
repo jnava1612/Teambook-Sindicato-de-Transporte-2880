@@ -2,5 +2,4 @@
 
 This is the Teamabook for the Team Sindicato de Transporte 2880.
 
-
-Soto haz algo lptm :v.
+![Sindicato de Trasporte 2880](Figures/LogoSdT2880.png)

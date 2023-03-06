@@ -25,7 +25,7 @@ void solve()
 {
     vector<int> d (n, INF);
     d[v] = 0;
-    for (;;)
+    for (;;) // equivalent to while (true)
     {
         bool any = false;
 

@@ -942,6 +942,12 @@ INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
+INPUT ../Geometry/PointsandLines.cpp
+INPUT ../Geometry/PointsandLines.cpp
+INPUT ../Geometry/PointsandLines.cpp
+INPUT ../Geometry/PointsandLines.cpp
+INPUT ../Geometry/PointsandLines.cpp
+INPUT ../Geometry/PointsandLines.cpp
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

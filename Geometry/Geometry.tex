@@ -1,3 +1,26 @@
 This chapter is a survey of the main results and algorithms useful to solve geometry problems.
 
-\section{}
+\section{Points and Lines}
+
+Some of the most useful functions used while describing points and lines are:
+
+\begin{itemize}
+    \item \texttt{atan2(y,x)}: returns the angle between the positive x-axis and the vector (x,y).
+    \item \texttt{hypot(x,y)}: returns the Euclidean distance between the origin and the point (x,y).
+    \item \texttt{cross(a,b)}: returns the cross product of the vectors a and b.
+    \item \texttt{dot(a,b)}: returns the dot product of the vectors a and b.
+    \item \texttt{dist(a,b)}: returns the Euclidean distance between the points a and b.
+    \item \texttt{dist2(a,b)}: returns the squared Euclidean distance between the points a and b.
+    \item \texttt{ccw(a,b,c)}: returns true if the points a, b and c are in counterclockwise order.
+    \item \texttt{collinear(a,b,c)}: returns true if the points a, b and c are collinear.
+    \item \texttt{angle(a,b)}: returns the angle between the vectors a and b.
+    \item \texttt{angle(a,b,c)}: returns the angle between the vectors a-b and c-b.
+    \item \texttt{rotate(a,ang)}: returns the vector a rotated by ang radians.
+    \item \texttt{rotate(a,ang,center)}: returns the vector a rotated by ang radians around the point center.
+    \item \texttt{reflect(a,m)}: returns the reflection of the point a across the line m.
+    \item \texttt{project(a,m)}: returns the projection of the point a onto the line m.
+    \item \texttt{closest(a,m)}: returns the closest point on the line m to the point a.
+    \item \texttt{intersect(a,b,c,d)}: returns true if the lines a-b and c-d intersect.
+\end{itemize}
+
+\lstinputlisting{../Geometry/PointsAndLines.cpp}

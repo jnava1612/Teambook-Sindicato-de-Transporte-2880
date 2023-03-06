@@ -20,4 +20,4 @@
 \contentsline {section}{\numberline {4.1}Knapsack Problem}{28}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Divide and Conquer}{29}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Geometry}{31}{chapter.5}%
-\contentsline {section}{\numberline {5.1}}{31}{section.5.1}%
+\contentsline {section}{\numberline {5.1}Points and Lines}{31}{section.5.1}%

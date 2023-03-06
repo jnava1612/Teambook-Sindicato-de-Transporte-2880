@@ -21,3 +21,4 @@
 \contentsline {section}{\numberline {4.2}Divide and Conquer}{29}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Geometry}{31}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Points and Lines}{31}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Lines}{33}{subsection.5.1.1}%

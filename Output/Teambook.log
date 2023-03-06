@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  6 MAR 2023 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  6 MAR 2023 15:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-<../Figures/LogoSdT2880.png, id=104, 602.25pt x 429.605pt>
+<../Figures/LogoSdT2880.png, id=108, 602.25pt x 429.605pt>
 File: ../Figures/LogoSdT2880.png Graphic file (type png)
 <use ../Figures/LogoSdT2880.png>
 Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
@@ -487,9 +487,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Chapter 2.
 (../Mathematics/Math.tex (../Mathematics/Euclid.cpp) (../Mathematics/FastGCD.cpp) (../Mathematics/HalimGCD.cpp) (../Mathematics/Erathostenes.cpp [7
 
-]) (../Mathematics/LinearSieve.cpp) [8] (../Mathematics/ModularInverse.cpp) (../Mathematics/MatrixPower.cpp [9]) (../Mathematics/GaussJordan.cpp) (../Mathematics/Simpson.cpp) [10]) [11
+]) (../Mathematics/LinearSieve.cpp) [8] (../Mathematics/ModularInverse.cpp) (../Mathematics/MatrixPower.cpp [9]) (../Mathematics/GaussJordan.cpp) (../Mathematics/Determinant.cpp [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [12
+) (../Mathematics/Simpson.cpp)) [11] [12
 
 ]
 Chapter 3.
@@ -527,7 +528,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=926, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=986, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -569,21 +570,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../Geometry/Line.cpp)) [35] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
-(rerunfilecheck)             Checksum: A407559FB591F3D98C0AC7A42CD5D12F;3329.
+(rerunfilecheck)             Checksum: 0ACAEBB29528963E5C4D25C2E0903B5F;3439.
  ) 
 Here is how much of TeX's memory you used:
- 16682 strings out of 476064
- 252667 string characters out of 5794894
- 2668340 words of memory out of 5000000
- 35266 multiletter control sequences out of 15000+600000
+ 16755 strings out of 476064
+ 253831 string characters out of 5794894
+ 2669340 words of memory out of 5000000
+ 35280 multiletter control sequences out of 15000+600000
  518817 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,395b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (35 pages, 560699 bytes).
+Output written on Teambook.pdf (35 pages, 565678 bytes).
 PDF statistics:
- 2145 PDF objects out of 2487 (max. 8388607)
- 2052 compressed objects within 21 object streams
- 1513 named destinations out of 1728 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2216 PDF objects out of 2487 (max. 8388607)
+ 2122 compressed objects within 22 object streams
+ 1569 named destinations out of 1728 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
 

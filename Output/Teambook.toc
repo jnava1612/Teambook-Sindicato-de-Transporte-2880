@@ -2,6 +2,7 @@
 \contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Data Structures}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Union Find Disjoint Sets}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Binary Indexed (Fenwick) Tree}{7}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Mathematics}{9}{chapter.3}%
 \contentsline {section}{\numberline {3.1}GCD and LCM}{9}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Prime Numbers}{9}{section.3.2}%

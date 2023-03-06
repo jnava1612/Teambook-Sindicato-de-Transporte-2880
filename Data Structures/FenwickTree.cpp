@@ -33,3 +33,11 @@ int main()
     update(a[i],1);
   }
 }
+
+//to update all the values in a range [i,j] the following implementation is used
+
+range_update(i,j,val) = update(i,val); update(j+1,-val);
+
+//to find the range result of a range [i,j] for a Range Update Range Query
+
+//rsq(1,j) = rupq.point_query(j)*j-purq.rsq(j)

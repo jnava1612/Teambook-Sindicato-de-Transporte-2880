@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1678109246 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678109252 0
+["pdflatex"] 1678122482 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678122485 0
   "../DP/DP.tex" 1677935968 1456 72fb2c388ae7336729a0ddfe6187e8c7 ""
   "../DP/DivideAndConquer.cpp" 1677935802 535 fa8dc93d117b4cc8153950005709871a ""
   "../DP/dp1.cpp" 1677892429 469 f37ce9f57f323fea4b2e26fad4998a38 ""
@@ -13,6 +13,7 @@
   "../DP/knapsack.cpp" 1677935962 1360 5f1219590bb4be1eae7abe8a91930016 ""
   "../Figures/LogoSdT2880.png" 1677284091 215887 1927e5495c56c72a6e1eac555f90a9ff ""
   "../Figures/ford_fulkerson11.png" 1677846770 10018 638e96936488017c1dabbd353d3f6140 ""
+  "../Geometry/Geometry.tex" 1678122446 108 d2d01f656698486173fde56966b896eb ""
   "../Graphs/BFS.cpp" 1675984802 632 c35553650dd8572afa77cb8e9e1718fe ""
   "../Graphs/BellmanFord.cpp" 1678109241 4303 0f2d0ba5ed1bb8b994dd35899ee6dbb7 ""
   "../Graphs/DFS-application.cpp" 1677285159 1360 92e45b56820f33784064c6d5f136a227 ""
@@ -34,11 +35,11 @@
   "../Mathematics/MatrixPower.cpp" 1676258200 640 513e943e990556069a2ff01fadb680d6 ""
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1678109252 4730 bb100cd5ec8153c6496ad33e41ef547b "pdflatex"
-  "Teambook.out" 1678109252 2673 ec781e0669c0db3453e2215bbee2a930 "pdflatex"
-  "Teambook.tex" 1677892608 2435 b7777f210d62ce9af6f1bab2bf672a11 ""
-  "Teambook.toc" 1678109252 1568 65e529ec8b0afb9b9079ef41e8d73b1e "pdflatex"
-  "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1677892608 2435 b7777f210d62ce9af6f1bab2bf672a11 ""
+  "Teambook.aux" 1678122485 5014 7bb6b4b113ca8dfe8ac6e4f6bd3de54d "pdflatex"
+  "Teambook.out" 1678122485 2804 36d22a0eaf045ee58b7237bb952bb98e "pdflatex"
+  "Teambook.tex" 1678122476 2491 65f99e862bd82d07fe0a8fbf47500de8 ""
+  "Teambook.toc" 1678122485 1694 1db7a693584713df7a885450b3c54604 "pdflatex"
+  "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1678122476 2491 65f99e862bd82d07fe0a8fbf47500de8 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1675753950 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""

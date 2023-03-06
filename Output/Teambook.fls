@@ -795,6 +795,12 @@ INPUT ../Mathematics/MatrixPower.cpp
 INPUT ../Mathematics/MatrixPower.cpp
 INPUT ../Mathematics/MatrixPower.cpp
 INPUT ../Mathematics/MatrixPower.cpp
+INPUT ../Mathematics/GaussJordan.cpp
+INPUT ../Mathematics/GaussJordan.cpp
+INPUT ../Mathematics/GaussJordan.cpp
+INPUT ../Mathematics/GaussJordan.cpp
+INPUT ../Mathematics/GaussJordan.cpp
+INPUT ../Mathematics/GaussJordan.cpp
 INPUT ../Graphs/Graphs.tex
 INPUT ../Graphs/Graphs.tex
 INPUT ../Graphs/Graphs.tex

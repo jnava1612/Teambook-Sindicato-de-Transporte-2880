@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  6 MAR 2023 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  6 MAR 2023 16:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,8 +485,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Chapter 2.
-(../Data Structures/DataStructures.tex) [7
-
+(../Data Structures/DataStructures.tex (../Data Structures/UnionFind.cpp)) [7
 
 ] [8
 
@@ -533,7 +532,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=1005, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=1040, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -578,18 +577,18 @@ Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: 4C7C92696508F849BA13AEEEEC348900;3745.
  ) 
 Here is how much of TeX's memory you used:
- 16767 strings out of 476064
- 254084 string characters out of 5794894
- 2668340 words of memory out of 5000000
- 35284 multiletter control sequences out of 15000+600000
+ 16817 strings out of 476064
+ 254916 string characters out of 5794894
+ 2669340 words of memory out of 5000000
+ 35296 multiletter control sequences out of 15000+600000
  518817 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,395b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (37 pages, 567960 bytes).
+Output written on Teambook.pdf (37 pages, 570681 bytes).
 PDF statistics:
- 2238 PDF objects out of 2487 (max. 8388607)
- 2142 compressed objects within 22 object streams
- 1573 named destinations out of 1728 (max. 500000)
+ 2279 PDF objects out of 2487 (max. 8388607)
+ 2183 compressed objects within 22 object streams
+ 1608 named destinations out of 1728 (max. 500000)
  235 words of extra memory for PDF output out of 10000 (max. 10000000)
 

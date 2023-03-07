@@ -22,3 +22,15 @@ This Data Structure can also be used to find the maximum value in a range of val
 It can also be extended to 2D, 3D, etc. The implementation is as follows:
 
 \lstinputlisting{../Data Structures/FenwickTree2D.cpp}
+
+\section{Segment Tree}
+
+The Segment Tree is a data structure that allows answering range queries over an array effectively, while still being flexible enough to allow modifying the array. It is, in principle, a static structure. It can answer most queries in O($\log$ n), but its true power is answering range updates. For that, it takes O($\log$ n) time per update.
+
+The implementation is as follows:
+
+\lstinputlisting{../Data Structures/SegmentTree.cpp}
+
+An iterative implementation is also possible:
+
+\lstinputlisting{../Data Structures/SegmentTreeIterative.cpp}

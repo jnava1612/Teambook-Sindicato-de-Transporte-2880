@@ -21,6 +21,8 @@ void init(int b, int e, int node)
 	init(mid + 1, e, r);
 	t[node] = join(t[l], t[r]);
 }
+//b, e always the beginning and end of the segment tree;
+
 node query(int b, int e, int node, int i, int j)
 {
 	if(b >= i && e <= j)

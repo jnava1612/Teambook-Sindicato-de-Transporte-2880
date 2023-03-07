@@ -34,7 +34,7 @@ node query(int b, int e, int node, int i, int j)
 }
 void update(int b, int e, int node, int pos, int val)
 {
-	if(b == e) {t[node].val = val;return;}
+	if(b == e) {t[node].val = val;return;} // Replaces the value, could be updated to add val to the current value
 	int mid = (b + e) / 2, l = node * 2 + 1, r = l + 1;
 	if(mid < pos)
 		update(mid + 1, e, r, pos, val);

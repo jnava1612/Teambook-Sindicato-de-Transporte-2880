@@ -37,6 +37,7 @@
 \contentsline {section}{\numberline {5.6}Broken Profile}{50}{section.5.6}%
 \contentsline {section}{\numberline {5.7}CHT}{51}{section.5.7}%
 \contentsline {section}{\numberline {5.8}Exchange Arguments}{54}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Expected Value}{55}{section.5.9}%
 \contentsline {chapter}{\numberline {6}Geometry}{57}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Points and Lines}{57}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Lines}{59}{subsection.6.1.1}%

@@ -1107,6 +1107,12 @@ INPUT ../DP/ExchangeArguments.cpp
 INPUT ../DP/ExchangeArguments.cpp
 INPUT ../DP/ExchangeArguments.cpp
 INPUT ../DP/ExchangeArguments.cpp
+INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/ExpectedValue.cpp
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex

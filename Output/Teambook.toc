@@ -1,0 +1,35 @@
+\babel@toc {nil}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Data Structures}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Union Find Disjoint Sets}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Binary Indexed (Fenwick) Tree}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Segment Tree}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Queue With Minimum}{14}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Sparse Table}{15}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Persistent Segment Tree}{16}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Mathematics}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}GCD and LCM}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Prime Numbers}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Modular Arithmetic}{18}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Matrix Exponentiation}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Gauss Jordan Elimination}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Determinant}{20}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Numerical Integration}{21}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Graphs}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Depth First Search (DFS)}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Breadth First Search (BFS)}{25}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Finding Bridges and Articulation Points}{26}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Bridges}{27}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Articulation Points}{28}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}Flows}{28}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Dinic}{28}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Ford Fulkerson}{29}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Dijkstra}{32}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Bellman Ford}{33}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Dynamic Programming}{37}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Knapsack Problem}{40}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Divide and Conquer}{41}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Geometry}{43}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{43}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{45}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{46}{section.6.2}%

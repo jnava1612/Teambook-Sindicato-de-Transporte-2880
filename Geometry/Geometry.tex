@@ -40,6 +40,11 @@ The convex hull of a set of points is the smallest convex polygon that contains 
 \begin{itemize}
     \item \textbf{Graham Scan}: This algorithm finds the convex hull in O(n log n) time. It is based on the following idea: the convex hull of a set of points is the set of points that are on the boundary of the convex hull. Therefore, we can find the convex hull by finding the points that are on the boundary of the convex hull. The algorithm works as follows:
     \lstinputlisting{../Geometry/ConvexHullGraham.cpp}
+    \item \textbf{Jarvis March}: This algorithm finds the convex hull in O(nh) time, where h is the number of points on the convex hull. It is based on the following idea: we can find the convex hull by starting at a point and rotating clockwise until we reach the starting point. The algorithm works as follows:
+    %\lstinputlisting{../Geometry/ConvexHullJarvis.cpp}
+    \item \textbf{Monotone Chain}: This algorithm finds the convex hull in O(n log n) time. It is based on the following idea: we can find the convex hull by finding the upper and lower hulls of the set of points. The algorithm works as follows:
+    \lstinputlisting{../Geometry/ConvexHullMonotone.cpp}
+\end{itemize}
 
 
 

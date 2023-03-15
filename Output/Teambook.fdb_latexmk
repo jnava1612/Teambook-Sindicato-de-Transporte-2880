@@ -1,9 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1678846249 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678846254 0
-  "../DP/DP.tex" 1678846166 2135 9153ba912382dbbef7c412ef4e15304f ""
+["pdflatex"] 1678846359 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678846363 0
+  "../DP/DP.tex" 1678846353 2466 9ccfe631c1455a7d9d592261251f3047 ""
   "../DP/DigitDP.cpp" 1678845814 1118 229ad2ed359e4839c55a7575f364a97c ""
   "../DP/DivideAndConquer.cpp" 1677935802 535 fa8dc93d117b4cc8153950005709871a ""
   "../DP/alienstrick.cpp" 1678846246 1876 a01df3753f8b6987e62781a76ac1e405 ""
+  "../DP/bitwisedigitdp.cpp" 1678846351 1634 ee47eab09fee66205fdbc53b357a6a64 ""
   "../DP/dp1.cpp" 1677892429 469 f37ce9f57f323fea4b2e26fad4998a38 ""
   "../DP/dp2.cpp" 1677892429 616 6c8194cbd3bb3465e617e0d336f330c3 ""
   "../DP/dp3.cpp" 1677892429 407 cfdb7a0e94849b2a3024eaaf0b448675 ""
@@ -63,10 +64,10 @@
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Mathematics/Simpson.cpp" 1678131491 209 96c5397b46444ece1d6c87f61079589f ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1678846253 7356 a72ffa77b22d6f67eeee6a9ab6983ba6 "pdflatex"
-  "Teambook.out" 1678846253 5499 9fe506ff6c9acbe89dbaac2ada526874 "pdflatex"
+  "Teambook.aux" 1678846363 7474 87ff7a4bcebfeca978a41ac4c2e2435e "pdflatex"
+  "Teambook.out" 1678846363 5640 2f3254d7cb0f1940a4679e3af97aa32c "pdflatex"
   "Teambook.tex" 1678844696 2772 5a6bf9e3504bb828afbc866449dd6bdf ""
-  "Teambook.toc" 1678846253 3181 5411bdd79bfe9be1f0302763362b6c05 "pdflatex"
+  "Teambook.toc" 1678846363 3258 bda3d95e31404747afb4ae4709acff6d "pdflatex"
   "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1678844696 2772 5a6bf9e3504bb828afbc866449dd6bdf ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""

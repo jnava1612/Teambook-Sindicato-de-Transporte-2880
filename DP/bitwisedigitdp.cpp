@@ -48,13 +48,8 @@ signed main()
     cin >> a >> b;
     a--, b++;
     memset(dp, -1, sizeof(dp));
-    if (a == -1)
-      cout << solve(60, 1, 0, 1, 0) << endl;
-    else
-      cout << solve(60, 0, 0, 0, 0) << endl;
+    if (a == -1) cout << solve(60, 1, 0, 1, 0) << endl;
+    else cout << solve(60, 0, 0, 0, 0) << endl;
   }
   return 0;
-}
-// https://codeforces.com/contest/1245/problem/F
-// https://codeforces.com/blog/entry/88064
-// count the number of pairs (i, j) which (i & j) == 0
+}// count the number of pairs (i, j) which (i & j) == 0

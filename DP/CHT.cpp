@@ -78,6 +78,4 @@ signed main()
   cin.tie(NULL);
   return 0;
 }
-// cht
-// queries ordenadas em ordem decrescente
-// linhas ordenadas em ordem decrescente
+// cht queries ordenadas em ordem decrescente linhas ordenadas em ordem decrescente

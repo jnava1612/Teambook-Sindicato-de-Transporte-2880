@@ -1,7 +1,5 @@
 //Dadas duas sequencias s1 e s2, uma de tamanho n e outra de tamanho m, qual a maior subsequencia comum as duas?
-
-// uma subsequencia de s e um subconjunto dos elementos de s na mesma ordem em que apareciam antes.
-// isto significa que {1, 3, 5} e uma subsequencia de {1, 2, 3, 4, 5}, mesmo 1 nao estando do lado do 3.
+// uma subsequencia de s e um subconjunto dos elementos de s na mesma ordem em que apareciam antes. isto significa que {1, 3, 5} e uma subsequencia de {1, 2, 3, 4, 5}, mesmo 1 nao estando do lado do 3.
 #include <bits/stdc++.h>
 using namespace std;
 

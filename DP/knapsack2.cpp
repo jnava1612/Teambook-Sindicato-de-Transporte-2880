@@ -31,7 +31,6 @@ int knapsack(int i, int limit)
   }
 
   int nao_coloca = knapsack(i + 1, limit); // recursivamente pra caso eu nao coloque o objeto i
-
   if (peso[i] <= limit) // se eu consigo botar o objeto i
   {
     int coloca = value[i] + knapsack(i + 1, limit - peso[i]);

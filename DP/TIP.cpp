@@ -1,11 +1,6 @@
-// dados os valores de moedas v1, v2, ... vn e possivel formar um valor m como combinacao de moedas
-// para isso basta montar uma dp inicializada com -1
-// nesse caso a dp so precisa de um parametro q e= valor restante ate o limite
-// mas podem existir variacoes do problema q precise de mais coisas
-// se em achar alguma combinacao valida retorna 1, se nao retorna 0
+// dados os valores de moedas v1, v2, ... vn e possivel formar um valor m como combinacao de moedas para isso basta montar uma dp inicializada com -1 nesse caso a dp so precisa de um parametro q e= valor restante ate o limite mas podem existir variacoes do problema q precise de mais coisas se em achar alguma combinacao valida retorna 1, se nao retorna 0
 #include <bits/stdc++.h>
 using namespace std;
-
 #define lli long long int
 #define pb push_back
 #define in insert

@@ -17,8 +17,7 @@ using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statisti
 #define mod 1000000007
 
 int f[MAXN];     // f[i] -> quantos "itens" com valor i tem
-bitset<MAXN> dp; // dp[i] = 1, se existe um subset com soma i
-// garantir que a soma de todo mundo seja < MAXN
+bitset<MAXN> dp; // dp[i] = 1, se existe um subset com soma i garantir que a soma de todo mundo seja < MAXN
 void subset_sum(vector<int> &v)
 {
   for (auto const &i : v)
@@ -38,12 +37,7 @@ void subset_sum(vector<int> &v)
   }
 }
 
-// https://github.com/gabrielpessoa1/ICPC-Library/blob/master/code/Miscellaneous/SubsetSum.cpp
-/*
- Given N non-negative integer weights w and a non-negative target t,
- computes the maximum S <= t such that S is the sum of some subset of the weights.
- O(N * max(w[i]))
-*/
+/*Given N non-negative integer weights w and a non-negative target t, computes the maximum S <= t such that S is the sum of some subset of the weights. O(N * max(w[i]))*/
 int knapsack(vector<int> w, int t)
 {
   int a = 0, b = 0;

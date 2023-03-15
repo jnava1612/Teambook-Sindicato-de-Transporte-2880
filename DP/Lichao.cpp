@@ -123,11 +123,4 @@ signed main()
   lt.add(line(5, -6, 1));
   cout << lt.qry(10).fir << " " << -lt.qry(10).sec << endl;
 }
-// li-chao tree
-// dado uma coordenada x
-// e um conjunto com varias equacoes lineares da forma: y = ax + b
-// retorna o menor valor de y entre as equacoes do conjunto
-// O(log(hi - lo))
-// no qual:
-// lo -> menor valor possivel de um x que vai ser passado pra uma query
-// hi -> maior valor possivel de um x que vai ser passado pra uma query
+// li-chao tree  dado uma coordenada x e um conjunto com varias equacoes lineares da forma: y = ax + b retorna o menor valor de y entre as equacoes do conjunto O(log(hi - lo)) no qual: lo -> menor valor possivel de um x que vai ser passado pra uma query hi -> maior valor possivel de um x que vai ser passado pra uma query

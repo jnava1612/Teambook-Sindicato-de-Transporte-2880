@@ -21,15 +21,8 @@ signed main()
 {
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
-  // exemplos de sos dp para calcular f[x] para cada mask x
-  // a[x] eh o valor de uma funcao a para uma mask x
-  // complexidade: O(M * 2^M), M = numero de bits
-
-  // Exemplo 1:
-  // nesse caso, f[x] eh a funcao que soma:
-  // todos os a[i], tal que, (x & i) == i)
-  // isso eh, i eh uma "mask filha" de x
-  // pois todos os bits de i estao setados em x
+  // exemplos de sos dp para calcular f[x] para cada mask x a[x] eh o valor de uma funcao a para uma mask x complexidade: O(M * 2^M), M = numero de bits
+  // Exemplo 1: nesse caso, f[x] eh a funcao que soma: todos os a[i], tal que, (x & i) == i) isso eh, i eh uma "mask filha" de x pois todos os bits de i estao setados em x
   for (int mask = 0; mask < (1 << m); mask++)
   {
     f[mask] = a[mask];
@@ -43,11 +36,7 @@ signed main()
     }
   }
 
-  // Exemplo 2:
-  // nesse caso, f[x] eh a funcao que soma:
-  // todos os a[i], tal que, (x & i) == x)
-  // isso eh, i eh uma "mask pai" de x
-  // pois todos os bits de x estao setados em i
+  // Exemplo 2: nesse caso, f[x] eh a funcao que soma: todos os a[i], tal que, (x & i) == x) isso eh, i eh uma "mask pai" de x pois todos os bits de x estao setados em i
   for (int mask = 0; mask < (1 << m); mask++)
   {
     f[mask] = a[mask];
@@ -63,4 +52,3 @@ signed main()
 
   return 0;
 }
-// https://codeforces.com/blog/entry/45223

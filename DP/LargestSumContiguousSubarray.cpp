@@ -1,8 +1,4 @@
-// dada uma sequencia s qual a maior soma que podemos obter escolhendo um subconjunto de termos adjacentes de s
-// nesse caso o temos apenas duas opcoes
-// nao usar o elemento v[i]
-// ou
-// usamos, adicionando a maior soma possivel que antes dele
+// dada uma sequencia s qual a maior soma que podemos obter escolhendo um subconjunto de termos adjacentes de s nesse caso o temos apenas duas opcoes nao usar o elemento v[i] ou usamos, adicionando a maior soma possivel que antes dele
 #include <bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>

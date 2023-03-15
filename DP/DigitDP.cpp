@@ -14,10 +14,8 @@ vector<int> dig;
 
 int solve(int i, int j, int k)
 {
-  if (i == dig.size())
-    return (k) ? dp[i][j][k] = j : dp[i][j][k] = 0;
-  if (dp[i][j][k] != -1)
-    return dp[i][j][k];
+  if (i == dig.size()) return (k) ? dp[i][j][k] = j : dp[i][j][k] = 0;
+  if (dp[i][j][k] != -1) return dp[i][j][k];
   int sum = 0;
   if (k)
     for (int f = 0; f <= 9; f++)

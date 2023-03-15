@@ -55,10 +55,8 @@ void init() // preprocess valid masks
 }
 int solve(int i, int j)
 {
-  if (i == n)
-    return (j == ((1 << 4) - 1)) ? 1 : 0;
-  if (dp[i][j] != -1)
-    return dp[i][j];
+  if (i == n) return (j == ((1 << 4) - 1)) ? 1 : 0;
+  if (dp[i][j] != -1) return dp[i][j];
   int ret = 0;
   for (auto const &mask : validmasks)
   {
@@ -70,8 +68,7 @@ int solve(int i, int j)
         if (k <= 3)
         {
           int idx = k, idx2 = idx;
-          if (prev_mask & (1 << idx) || nxt_mask & (1 << idx2))
-            valid = false;
+          if (prev_mask & (1 << idx) || nxt_mask & (1 << idx2)) valid = false;
           prev_mask = prev_mask | (1 << idx);
           nxt_mask = nxt_mask | (1 << idx2);
         }
@@ -85,8 +82,7 @@ int solve(int i, int j)
         }
       }
     }
-    if (valid && prev_mask == ((1 << 4) - 1))
-      ret += solve(i + 1, nxt_mask);
+    if (valid && prev_mask == ((1 << 4) - 1)) ret += solve(i + 1, nxt_mask);
   }
   return dp[i][j] = ret;
 }
@@ -105,15 +101,5 @@ signed main()
   }
   return 0;
 }
-// broken profile dp
-// if you can fully fill an area with some figures
-// finding number of ways to fully fill an area with some figures
-// finding a way to fill an area with minimum number of figures
-// ...
-// https://www.spoj.com/problems/GNY07H/
-// We wish to tile a 4xN grid with rectangles 2x1 (in either orientation)
-// dp[i][mask]
-// i denotes the current column
-// mask denotes the situation of the previous column
-// our mission is to fill all of the units of
-// the previous column in a state [i][mask]
+// broken profile dp if you can fully fill an area with some figures finding number of ways to fully fill an area with some figures finding a way to fill an area with minimum number of figures 
+// We wish to tile a 4xN grid with rectangles 2x1 (in either orientation) dp[i][mask] i denotes the current column mask denotes the situation of the previous column our mission is to fill all of the units of the previous column in a state [i][mask] 

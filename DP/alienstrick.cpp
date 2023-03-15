@@ -22,9 +22,7 @@ string s;
 
 pi solve(vector<int> &v, int lambda)
 {
- // asociar un coste lambda que se restara cuando realicemos una operacion
-  // dp[i] - mejor beneficio que hemos obtenido considerando las i primeras posiciones
-  // cnt[i] - cuantas operaciones hemos utilizado para obtener el valor de dp[i]
+ // asociar un coste lambda que se restara cuando realicemos una operacion dp[i] - mejor beneficio que hemos obtenido considerando las i primeras posiciones cnt[i] - cuantas operaciones hemos utilizado para obtener el valor de dp[i]
   vector<int> dp(n + 1);
   vector<int> cnt(n + 1);
   dp[0] = 0;
@@ -75,5 +73,4 @@ signed main()
   }
   cout << n - max(aliens_trick(a), aliens_trick(b)) << endl;
   return 0;
-}
-// https://codeforces.com/contest/1279/problem/F
+} // https://codeforces.com/contest/1279/problem/F

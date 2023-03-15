@@ -31,11 +31,7 @@ double solve(int i, int j, int k)
     return dp[i][j][k] = 0;
   if (dp[i][j][k] != -1)
     return dp[i][j][k];
-  /*
-  It is well-known from statistics that for the geometric distribution 
-  (counting number of trials before a success, where each independent trial is probability p) 
-  the expected value is i / p
-  */
+  /*It is well-known from statistics that for the geometric distribution (counting number of trials before a success, where each independent trial is probability p) the expected value is i / p*/
   double p = ((double)(i + j + k) / n);
   double ret = 1 / p; // expected number of trials before a success
   if (i)

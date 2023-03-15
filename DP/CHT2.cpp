@@ -104,18 +104,4 @@ signed main()
   cin.tie(NULL);
   return 0;
 }
-// sources:
-// https://github.com/pauloamed/Training/blob/master/PD/cht.cpp
-// https://github.com/brunomaletta/Biblioteca/blob/master/Codigo/DP/CHT-Dinamico.cpp
-
-// cht dinamico
-// dado uma coordenada x
-// e um conjunto com varias equacoes lineares da forma: y = mx + c
-// retorna o maior valor de y entre as equacoes do conjunto
-
-// para o menor valor, multiplicar m e c de cada equacao por -1
-// e multiplicar o resultado da query por -1
-
-// problemas iniciais:
-// https://atcoder.jp/contests/dp/tasks/dp_z
-// https://codeforces.com/contest/1083/problem/E
+// cht dinamico dado uma coordenada x e um conjunto com varias equacoes lineares da forma: y = mx + c retorna o maior valor de y entre as equacoes do conjunto para o menor valor, multiplicar m e c de cada equacao por -1 e multiplicar o resultado da query por -1 problemas iniciais:

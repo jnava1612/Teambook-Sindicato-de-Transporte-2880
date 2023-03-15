@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  15 MAR 2023 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  15 MAR 2023 19:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -644,79 +644,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [56]) (../DP/DigitDP.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57] (../DP/alienstrick.cpp
+ [57] (../DP/alienstrick.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]) (../DP/bitwisedigitdp.cpp) (../DP/BrokenProfile.cpp [59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60])
-Underfull \vbox (badness 6859) has occurred while \output is active []
-
- (../DP/CHT.cpp [61]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-) (../DP/CHT2.cpp [62]
+ [58] (../DP/bitwisedigitdp.cpp) (../DP/BrokenProfile.cpp [59]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63]) (../DP/ExchangeArguments.cpp
+ [60]) (../DP/CHT.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64]) (../DP/ExpectedValue.cpp
+ [61]) (../DP/CHT2.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [65]) (../DP/LargestSumContiguousSubarray.cpp
+ [62]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66]) (../DP/LargestSquare.cpp
+) (../DP/ExchangeArguments.cpp [63]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]) (../DP/LCS.cpp)
+) (../DP/ExpectedValue.cpp [64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68] (../DP/Lichao.cpp
+) (../DP/LargestSumContiguousSubarray.cpp [65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
+) (../DP/LargestSquare.cpp [66]) (../DP/LCS.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LIS.cpp [70])
+ [67] (../DP/Lichao.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- (../DP/MaximumMatrixPath.cpp [71]) (../DP/SOSDP.cpp)
+ [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [72] (../DP/SubsequenceString.cpp) (../DP/SubsetSum.cpp [73]
+) (../DP/LIS.cpp [69]) (../DP/MaximumMatrixPath.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/TIP.cpp [74]) (../DP/atcoder/A - Frog 1.cpp) (../DP/atcoder/B - Frog 2.cpp) (../DP/atcoder/C - Vacation.cpp [75]) (../DP/atcoder/D - Knapsack 1.cpp) (../DP/atcoder/E - Knapsack 2.cpp) (../DP/atcoder/F - LCS.cpp [76]) (../DP/atcoder/G - Longest Path.cpp) (../DP/atcoder/H - Grid 1.cpp) (../DP/atcoder/I - Coins.cpp [77]) (../DP/atcoder/J - Sushi.cpp) (../DP/atcoder/K - Stones.cpp) (../DP/atcoder/L - Deque.cpp [78]) (../DP/atcoder/M - Candies.cpp) (../DP/atcoder/N - Slimes.cpp) (../DP/atcoder/O - Matching.cpp [79]) (../DP/atcoder/P - Independent Set.cpp) (../DP/atcoder/Q - Flowers.cpp) (../DP/atcoder/R - Walk.cpp [80]
+ [70] (../DP/SOSDP.cpp) (../DP/SubsequenceString.cpp [71]) (../DP/SubsetSum.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/atcoder/S - Digit Sum.cpp) (../DP/atcoder/T - Permutation.cpp [81]) (../DP/atcoder/U - Grouping.cpp) (../DP/atcoder/V - Subtree.cpp [82]) (../DP/atcoder/X - Tower.cpp) (../DP/atcoder/Y - Grid 2.cpp [83])) [84
+ [72]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] (./Teambook.aux)
+) (../DP/TIP.cpp [73]) (../DP/atcoder/A - Frog 1.cpp) (../DP/atcoder/B - Frog 2.cpp) (../DP/atcoder/C - Vacation.cpp) (../DP/atcoder/D - Knapsack 1.cpp [74]) (../DP/atcoder/E - Knapsack 2.cpp) (../DP/atcoder/F - LCS.cpp) (../DP/atcoder/G - Longest Path.cpp [75]) (../DP/atcoder/H - Grid 1.cpp) (../DP/atcoder/I - Coins.cpp) (../DP/atcoder/J - Sushi.cpp [76]) (../DP/atcoder/K - Stones.cpp) (../DP/atcoder/L - Deque.cpp) (../DP/atcoder/M - Candies.cpp [77]) (../DP/atcoder/N - Slimes.cpp) (../DP/atcoder/O - Matching.cpp) (../DP/atcoder/P - Independent Set.cpp [78]) (../DP/atcoder/Q - Flowers.cpp) (../DP/atcoder/R - Walk.cpp [79]) (../DP/atcoder/S - Digit Sum.cpp) (../DP/atcoder/T - Permutation.cpp) [80] (../DP/atcoder/U - Grouping.cpp) (../DP/atcoder/V - Subtree.cpp) (../DP/atcoder/X - Tower.cpp [81]) (../DP/atcoder/Y - Grid 2.cpp)) [82] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: D5150EEB0CBA54118BCB1E61BAF772BB;7670.
  ) 
 Here is how much of TeX's memory you used:
- 21341 strings out of 476064
- 326335 string characters out of 5794894
- 2808340 words of memory out of 5000000
+ 21195 strings out of 476064
+ 323982 string characters out of 5794894
+ 2746340 words of memory out of 5000000
  36049 multiletter control sequences out of 15000+600000
  518986 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,774b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (84 pages, 885849 bytes).
+Output written on Teambook.pdf (82 pages, 877128 bytes).
 PDF statistics:
- 6889 PDF objects out of 7423 (max. 8388607)
- 6699 compressed objects within 67 object streams
- 5186 named destinations out of 6186 (max. 500000)
+ 6704 PDF objects out of 7423 (max. 8388607)
+ 6517 compressed objects within 66 object streams
+ 5040 named destinations out of 5155 (max. 500000)
  467 words of extra memory for PDF output out of 10000 (max. 10000000)
 

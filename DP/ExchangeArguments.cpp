@@ -68,20 +68,7 @@ signed main()
   cout << ans << endl;
   return 0;
 }
-// problema:
-// existem n caixas, cada uma tem um peso w[i] e uma resistencia r[i]
-// voce deve escolher um subset de caixas e empilhar na ordem que vc quiser
-// tal que: a soma dos pesos de todas as caixas acima de uma caixa seja menor ou igual a resistencia dessa caixa
-
-// dp[i][j] - estou na caixa i e quero escolher mais j caixas para botar na pilha
-// qual a maior resistencia restante que eu posso obter escolhendo essas j caixas
-
-// a grande sacada pra achar a ordenacao otima antes da dp:
-// para duas caixas a e b
-// quando vai ser stonks botar a antes de b?
-// r[a] - w[b] > r[b] - w[a]
-// pois a resistencia reestante vai ser maior
-
-// pra demais problemas de exchange argument, essa ideia pode se aplicar
-// do tipo, ver o jeito otimo de resolver pro n = 2
-// e fazer a ordenacao baseada nisso
+// problema: existem n caixas, cada uma tem um peso w[i] e uma resistencia r[i] voce deve escolher um subset de caixas e empilhar na ordem que vc quiser tal que: a soma dos pesos de todas as caixas acima de uma caixa seja menor ou igual a resistencia dessa caixa
+// dp[i][j] - estou na caixa i e quero escolher mais j caixas para botar na pilha qual a maior resistencia restante que eu posso obter escolhendo essas j caixas
+// a grande sacada pra achar a ordenacao otima antes da dp: para duas caixas a e b quando vai ser stonks botar a antes de b? r[a] - w[b] > r[b] - w[a] pois a resistencia reestante vai ser maior
+// pra demais problemas de exchange argument, essa ideia pode se aplicar do tipo, ver o jeito otimo de resolver pro n = 2 e fazer a ordenacao baseada nisso

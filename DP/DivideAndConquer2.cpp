@@ -62,12 +62,4 @@ signed main()
   cout << dp[g][n - 1] << endl;
   return 0;
 }
-// https://codeforces.com/gym/103536/problem/A
-// https://codeforces.com/contest/321/problem/E
-
-// otimizacao de dp usando divide and conquer
-// para dps do tipo:
-// dp[i][j] = min(dp[i - 1][k] + c(k, j)), para algum k <= j
-// considerando opt(i, j) o menor valor de k que minimiza dp[i][j]
-// podemos calcular opt(i, j) usando divide and conquer
-// isso diminuiria a complexidade para O(k * n * log(n))
+// otimizacao de dp usando divide and conquer para dps do tipo: dp[i][j] = min(dp[i - 1][k] + c(k, j)), para algum k <= j considerando opt(i, j) o menor valor de k que minimiza dp[i][j] podemos calcular opt(i, j) usando divide and conquer isso diminuiria a complexidade para O(k * n * log(n))

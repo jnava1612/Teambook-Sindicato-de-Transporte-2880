@@ -34,17 +34,24 @@
 \contentsline {section}{\numberline {5.3}Digit DP}{47}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Alien's Trick}{48}{section.5.4}%
 \contentsline {section}{\numberline {5.5}Bitwise Digit DP}{49}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Broken Profile}{50}{section.5.6}%
+\contentsline {section}{\numberline {5.6}Broken Profile}{49}{section.5.6}%
 \contentsline {section}{\numberline {5.7}CHT}{51}{section.5.7}%
 \contentsline {section}{\numberline {5.8}Exchange Arguments}{54}{section.5.8}%
 \contentsline {section}{\numberline {5.9}Expected Value}{55}{section.5.9}%
 \contentsline {section}{\numberline {5.10}Largest Sum Contiguous Subarray}{56}{section.5.10}%
 \contentsline {section}{\numberline {5.11}Largest Square}{57}{section.5.11}%
 \contentsline {section}{\numberline {5.12}Least Common Subsequence}{58}{section.5.12}%
-\contentsline {chapter}{\numberline {6}Geometry}{61}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Points and Lines}{61}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Lines}{63}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Convex Hull}{64}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Polygon}{65}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{67}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Polar Sort}{69}{section.6.4}%
+\contentsline {section}{\numberline {5.13}Lichao}{59}{section.5.13}%
+\contentsline {section}{\numberline {5.14}Longest Increasing Subsequence}{60}{section.5.14}%
+\contentsline {section}{\numberline {5.15}Maximum Matrix Path}{61}{section.5.15}%
+\contentsline {section}{\numberline {5.16}SOS DP}{62}{section.5.16}%
+\contentsline {section}{\numberline {5.17}Subsequence String}{63}{section.5.17}%
+\contentsline {section}{\numberline {5.18}Subset Sum}{63}{section.5.18}%
+\contentsline {section}{\numberline {5.19}TIP}{64}{section.5.19}%
+\contentsline {chapter}{\numberline {6}Geometry}{67}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{67}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{69}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{70}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Polygon}{71}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{73}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Polar Sort}{75}{section.6.4}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 22:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 22:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-<../Figures/LogoSdT2880.png, id=200, 602.25pt x 429.605pt>
+<../Figures/LogoSdT2880.png, id=229, 602.25pt x 429.605pt>
 File: ../Figures/LogoSdT2880.png Graphic file (type png)
 <use ../Figures/LogoSdT2880.png>
 Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
@@ -560,7 +560,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=1846, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=1882, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -610,22 +610,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [44]) (../DP/knapsack2.cpp) (../DP/DivideAndConquer.cpp [45]) (../DP/DivideAndConquer2.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]) (../DP/DigitDP.cpp
+ [46]) (../DP/DigitDP.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]) (../DP/alienstrick.cpp
+ [47] (../DP/alienstrick.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]) (../DP/bitwisedigitdp.cpp
+ [48]) (../DP/bitwisedigitdp.cpp) (../DP/BrokenProfile.cpp [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [49]) (../DP/BrokenProfile.cpp
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [50])
+Underfull \vbox (badness 6859) has occurred while \output is active []
 
-) (../DP/CHT.cpp [51]
+ (../DP/CHT.cpp [51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../DP/CHT2.cpp [52]
@@ -637,68 +637,83 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [53]) (../DP/ExchangeArguments.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
+ [54]) (../DP/ExpectedValue.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/ExpectedValue.cpp [55]
+ [55]) (../DP/LargestSumContiguousSubarray.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LargestSumContiguousSubarray.cpp [56]
+ [56]) (../DP/LargestSquare.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LargestSquare.cpp [57]
+ [57]) (../DP/LCS.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LCS.cpp [58])) [59
+ [58] (../DP/Lichao.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [60
+ [59]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) (../DP/LIS.cpp [60])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ (../DP/MaximumMatrixPath.cpp [61]) (../DP/SOSDP.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62] (../DP/SubsequenceString.cpp) (../DP/SubsetSum.cpp [63]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) (../DP/TIP.cpp [64])) [65
+
+] [66
 
 ]
 Chapter 6.
-(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [61]
+(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
+ [68]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../Geometry/Line.cpp)
 Underfull \vbox (badness 1629) has occurred while \output is active []
 
- [63] (../Geometry/ConvexHullGraham.cpp) [64] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [65]
+ [69] (../Geometry/ConvexHullGraham.cpp) [70] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [71]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [66] (../Geometry/Triangle.cpp
+ [72] (../Geometry/Triangle.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67]
+ [73]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68]) (../Geometry/PolarSort.cpp)) [69] (./Teambook.aux)
+ [74]) (../Geometry/PolarSort.cpp)) [75] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
-(rerunfilecheck)             Checksum: B3F624933B0AF7DA03BCEB53B2860F66;6645.
+(rerunfilecheck)             Checksum: B1A3C2F9F14248460129452554266F67;7518.
  ) 
 Here is how much of TeX's memory you used:
- 19921 strings out of 476064
- 303008 string characters out of 5794894
+ 20499 strings out of 476064
+ 311939 string characters out of 5794894
  2669340 words of memory out of 5000000
- 35895 multiletter control sequences out of 15000+600000
+ 35962 multiletter control sequences out of 15000+600000
  518986 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,774b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (69 pages, 792019 bytes).
+Output written on Teambook.pdf (75 pages, 830460 bytes).
 PDF statistics:
- 5387 PDF objects out of 6186 (max. 8388607)
- 5226 compressed objects within 53 object streams
- 4014 named destinations out of 4296 (max. 500000)
- 403 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6029 PDF objects out of 6186 (max. 8388607)
+ 5856 compressed objects within 59 object streams
+ 4504 named destinations out of 5155 (max. 500000)
+ 459 words of extra memory for PDF output out of 10000 (max. 10000000)
 

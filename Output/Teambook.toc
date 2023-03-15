@@ -32,6 +32,7 @@
 \contentsline {section}{\numberline {5.1}Knapsack Problem}{44}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Divide and Conquer}{45}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Digit DP}{46}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Alien's Trick}{47}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Geometry}{49}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Points and Lines}{49}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Lines}{51}{subsection.6.1.1}%

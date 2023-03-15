@@ -31,3 +31,15 @@ Some of the most useful functions used while describing points and lines are:
 In order to represent lines and find their intersection, we can use the following struct:
 
 \lstinputlisting{../Geometry/Line.cpp}
+
+
+\section{Convex Hull}
+
+The convex hull of a set of points is the smallest convex polygon that contains all the points. There are several algorithms to find the convex hull of a set of points. The most common ones are:
+
+\begin{itemize}
+    \item \textbf{Graham Scan}: This algorithm finds the convex hull in O(n log n) time. It is based on the following idea: the convex hull of a set of points is the set of points that are on the boundary of the convex hull. Therefore, we can find the convex hull by finding the points that are on the boundary of the convex hull. The algorithm works as follows:
+    \lstinputlisting{../Geometry/ConvexHullGraham.cpp}
+
+
+

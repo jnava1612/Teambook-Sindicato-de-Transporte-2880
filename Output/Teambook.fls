@@ -1059,6 +1059,12 @@ INPUT ../DP/DivideAndConquer.cpp
 INPUT ../DP/DivideAndConquer.cpp
 INPUT ../DP/DivideAndConquer.cpp
 INPUT ../DP/DivideAndConquer.cpp
+INPUT ../DP/DivideAndConquer2.cpp
+INPUT ../DP/DivideAndConquer2.cpp
+INPUT ../DP/DivideAndConquer2.cpp
+INPUT ../DP/DivideAndConquer2.cpp
+INPUT ../DP/DivideAndConquer2.cpp
+INPUT ../DP/DivideAndConquer2.cpp
 INPUT ../DP/DigitDP.cpp
 INPUT ../DP/DigitDP.cpp
 INPUT ../DP/DigitDP.cpp
@@ -1089,6 +1095,12 @@ INPUT ../DP/CHT.cpp
 INPUT ../DP/CHT.cpp
 INPUT ../DP/CHT.cpp
 INPUT ../DP/CHT.cpp
+INPUT ../DP/CHT2.cpp
+INPUT ../DP/CHT2.cpp
+INPUT ../DP/CHT2.cpp
+INPUT ../DP/CHT2.cpp
+INPUT ../DP/CHT2.cpp
+INPUT ../DP/CHT2.cpp
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex

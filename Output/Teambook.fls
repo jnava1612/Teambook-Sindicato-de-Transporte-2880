@@ -983,6 +983,12 @@ INPUT ../Graphs/Hamiltonian.cpp
 INPUT ../Graphs/Hamiltonian.cpp
 INPUT ../Graphs/Hamiltonian.cpp
 INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Eulerian.cpp
+INPUT ../Graphs/Eulerian.cpp
+INPUT ../Graphs/Eulerian.cpp
+INPUT ../Graphs/Eulerian.cpp
+INPUT ../Graphs/Eulerian.cpp
+INPUT ../Graphs/Eulerian.cpp
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex

@@ -354,3 +354,22 @@ A Hamiltonian cycle is a cycle that visits every node in the graph. The implemen
 
 \lstinputlisting{../Graphs/Hamiltonian.cpp}
 
+
+\section{Eulerian Cycle}
+
+The problem is same as following question. “Is it possible to draw a given graph without lifting pencil from the paper and without tracing any of the edges more than once”.
+A graph is called Eulerian if it has an Eulerian Cycle and called Semi-Eulerian if it has an Eulerian Path. The problem seems similar to Hamiltonian Path which is NP complete problem for a general graph. Fortunately, we can find whether a given graph has a Eulerian Path or not in polynomial time. In fact, we can find it in O(V+E) time. 
+Following are some interesting properties of undirected graphs with an Eulerian path and cycle. We can use these properties to find whether a graph is Eulerian or not.
+
+Eulerian Cycle: An undirected graph has Eulerian cycle if following two conditions are true. 
+
+All vertices with non-zero degree are connected. We don’t care about vertices with zero degree because they don’t belong to Eulerian Cycle or Path (we only consider all edges). 
+All vertices have even degree.
+Eulerian Path: An undirected graph has Eulerian Path if following two conditions are true. 
+
+Same as condition (a) for Eulerian Cycle.
+If zero or two vertices have odd degree and all other vertices have even degree. Note that only one vertex with odd degree is not possible in an undirected graph (sum of all degrees is always even in an undirected graph)
+
+An Eulerian cycle is a cycle that visits every edge in the graph. The implementation of this algorithm is:
+
+\lstinputlisting{../Graphs/Eulerian.cpp}

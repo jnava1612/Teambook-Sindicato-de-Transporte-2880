@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 22:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 22:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-<../Figures/LogoSdT2880.png, id=180, 602.25pt x 429.605pt>
+<../Figures/LogoSdT2880.png, id=184, 602.25pt x 429.605pt>
 File: ../Figures/LogoSdT2880.png Graphic file (type png)
 <use ../Figures/LogoSdT2880.png>
 Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
@@ -560,7 +560,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=1821, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=1826, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -634,56 +634,60 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [53])) [54
+ [53]) (../DP/ExchangeArguments.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)) [55] [56
 
 ]
 Chapter 6.
-(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [55
-
-]
+(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [57]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56]
+ [58]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../Geometry/Line.cpp)
 Underfull \vbox (badness 1629) has occurred while \output is active []
 
- [57] (../Geometry/ConvexHullGraham.cpp) [58] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [59]
+ [59] (../Geometry/ConvexHullGraham.cpp) [60] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [61]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60] (../Geometry/Triangle.cpp
+ [62] (../Geometry/Triangle.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]
+ [63]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]) (../Geometry/PolarSort.cpp)) [63] (./Teambook.aux)
+ [64]) (../Geometry/PolarSort.cpp)) [65] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
-(rerunfilecheck)             Checksum: ACB180E85B0CCCDEB86758E10A07AFE5;5838.
+(rerunfilecheck)             Checksum: D064E76AA0A2D3CBA2F668D12BB31F28;5986.
  ) 
 Here is how much of TeX's memory you used:
- 19504 strings out of 476064
- 296379 string characters out of 5794894
+ 19607 strings out of 476064
+ 298005 string characters out of 5794894
  2669340 words of memory out of 5000000
- 35852 multiletter control sequences out of 15000+600000
+ 35861 multiletter control sequences out of 15000+600000
  518986 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,774b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (63 pages, 758524 bytes).
+Output written on Teambook.pdf (65 pages, 766695 bytes).
 PDF statistics:
- 4912 PDF objects out of 5155 (max. 8388607)
- 4762 compressed objects within 48 object streams
- 3655 named destinations out of 4296 (max. 500000)
- 363 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5033 PDF objects out of 5155 (max. 8388607)
+ 4880 compressed objects within 49 object streams
+ 3746 named destinations out of 4296 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 

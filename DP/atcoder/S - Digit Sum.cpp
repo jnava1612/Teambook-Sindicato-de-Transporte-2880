@@ -1,9 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 int dp[10005][2][100];
 const int md = 1e9+7;
 signed main(){

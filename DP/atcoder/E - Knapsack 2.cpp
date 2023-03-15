@@ -1,11 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
- 
-#define int long long
-#define endl '\n'
- 
 const int INF = 1LL<<60;
- 
 signed main(){
     cin.tie(0)->sync_with_stdio(0);
     

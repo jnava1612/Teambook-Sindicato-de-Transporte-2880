@@ -1,15 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 1e5+5;
 vector<int> adj[mxN];
-
 vector<int> ts;
 int vis[mxN];
-
 void dfs(int x) {
     vis[x] = 1;
     for (auto i: adj[x])
@@ -17,7 +9,6 @@ void dfs(int x) {
             dfs(i);
     ts.push_back(x);
 }
-
 signed main(){
     cin.tie(0)->sync_with_stdio(0);
     

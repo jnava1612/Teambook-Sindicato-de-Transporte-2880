@@ -1,15 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 1 << 17;
 int dp[mxN];
-
 signed main() {
     cin.tie(0)->sync_with_stdio(0);
-    
     int n; cin >> n;
     int G[n][n];
     for (int i = 0; i < n; i++)

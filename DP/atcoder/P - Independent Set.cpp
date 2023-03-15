@@ -1,15 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 1e5+5;
 const int md = 1e9+7;
 vector<int> adj[mxN];
-
 int dp[mxN][2];
-
 void dfs(int s, int p = 0) {
     dp[s][0] = 1;
     dp[s][1] = 1;

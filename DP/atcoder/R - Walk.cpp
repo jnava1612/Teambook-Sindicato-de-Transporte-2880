@@ -1,11 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int md = 1e9+7;
-
 int n;
 struct M {
     vector<vector<int>> t;

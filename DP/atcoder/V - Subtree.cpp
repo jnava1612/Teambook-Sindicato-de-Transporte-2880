@@ -1,13 +1,6 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 1e5 + 5;
 int md, dp[mxN], A[mxN];
 vector<int> G[mxN];
-
 void dfs(int s, int p = -1) {
     int x = 1;
     for (auto i: G[s]) if (i != p) {

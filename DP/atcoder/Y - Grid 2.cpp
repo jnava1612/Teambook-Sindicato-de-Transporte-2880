@@ -1,12 +1,5 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int md = 1e9 + 7, mxN = 2e6+6;
 int F[mxN], I[mxN];
-
 int exp(int x, int y, int md){
     int ans = 1;
     x = x%md;

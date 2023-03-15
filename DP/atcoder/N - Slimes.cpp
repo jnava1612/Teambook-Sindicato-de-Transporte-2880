@@ -1,12 +1,5 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int INF = 1LL<<60;
 int dp[405][405];
-
 signed main(){
     cin.tie(0)->sync_with_stdio(0);
     

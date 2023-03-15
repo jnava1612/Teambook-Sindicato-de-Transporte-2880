@@ -1,16 +1,8 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 2e4 + 4;
 int dp[mxN];
-
 struct node {
     int x, y, z;
 };
-
 signed main() {
     cin.tie(0)->sync_with_stdio(0);
     

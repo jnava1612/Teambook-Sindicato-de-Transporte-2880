@@ -1,9 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 1e6+6;
 int seg[2*mxN], N;
 

@@ -1,15 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
-
-#define int long long
-#define endl '\n'
-
 const int mxN = 305;
 double dp[mxN][mxN][mxN];
-
 signed main(){
     cin.tie(0)->sync_with_stdio(0);
-    
     int n; cin>>n;
     int a[4] = {0};
     for (int i = 0; i < n; i++) {

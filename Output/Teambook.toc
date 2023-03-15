@@ -26,13 +26,14 @@
 \contentsline {subsection}{\numberline {4.4.2}Ford Fulkerson}{29}{subsection.4.4.2}%
 \contentsline {section}{\numberline {4.5}Dijkstra}{32}{section.4.5}%
 \contentsline {section}{\numberline {4.6}Bellman Ford}{33}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Dynamic Programming}{37}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Knapsack Problem}{40}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Divide and Conquer}{41}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Geometry}{43}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Points and Lines}{43}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Lines}{45}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Convex Hull}{46}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Polygon}{47}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{49}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Polar Sort}{51}{section.6.4}%
+\contentsline {section}{\numberline {4.7}Hamiltonian Cycle}{35}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Dynamic Programming}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Knapsack Problem}{42}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Divide and Conquer}{43}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Geometry}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{45}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{47}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{48}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Polygon}{49}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{51}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Polar Sort}{53}{section.6.4}%

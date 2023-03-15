@@ -977,6 +977,12 @@ INPUT ../Graphs/BellmanFord.cpp
 INPUT ../Graphs/BellmanFord.cpp
 INPUT ../Graphs/BellmanFord.cpp
 INPUT ../Graphs/BellmanFord.cpp
+INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Hamiltonian.cpp
+INPUT ../Graphs/Hamiltonian.cpp
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex
 INPUT ../DP/DP.tex

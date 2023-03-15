@@ -38,10 +38,11 @@
 \contentsline {section}{\numberline {5.7}CHT}{51}{section.5.7}%
 \contentsline {section}{\numberline {5.8}Exchange Arguments}{54}{section.5.8}%
 \contentsline {section}{\numberline {5.9}Expected Value}{55}{section.5.9}%
-\contentsline {chapter}{\numberline {6}Geometry}{57}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Points and Lines}{57}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Lines}{59}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Convex Hull}{60}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Polygon}{61}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{63}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Polar Sort}{65}{section.6.4}%
+\contentsline {section}{\numberline {5.10}Largest Sum Contiguous Subarray}{56}{section.5.10}%
+\contentsline {chapter}{\numberline {6}Geometry}{59}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{59}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{61}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{62}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Polygon}{63}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{65}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Polar Sort}{67}{section.6.4}%

@@ -1113,6 +1113,12 @@ INPUT ../DP/ExpectedValue.cpp
 INPUT ../DP/ExpectedValue.cpp
 INPUT ../DP/ExpectedValue.cpp
 INPUT ../DP/ExpectedValue.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
+INPUT ../DP/LargestSumContiguousSubarray.cpp
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex

@@ -34,6 +34,7 @@
 \contentsline {section}{\numberline {5.3}Digit DP}{46}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Alien's Trick}{47}{section.5.4}%
 \contentsline {section}{\numberline {5.5}Bitwise Digit DP}{48}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Broken Profile}{49}{section.5.6}%
 \contentsline {chapter}{\numberline {6}Geometry}{51}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Points and Lines}{51}{section.6.1}%
 \contentsline {subsection}{\numberline {6.1.1}Lines}{53}{subsection.6.1.1}%

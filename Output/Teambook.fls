@@ -818,6 +818,12 @@ INPUT ../Data Structures/SparseTableGen.cpp
 INPUT ../Data Structures/SparseTableGen.cpp
 INPUT ../Data Structures/SparseTableGen.cpp
 INPUT ../Data Structures/SparseTableGen.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
+INPUT ../Data Structures/PersistentSegmentTree.cpp
 INPUT ../Mathematics/Math.tex
 INPUT ../Mathematics/Math.tex
 INPUT ../Mathematics/Math.tex

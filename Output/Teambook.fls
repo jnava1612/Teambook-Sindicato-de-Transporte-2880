@@ -1072,6 +1072,12 @@ INPUT ../Geometry/Triangle.cpp
 INPUT ../Geometry/Triangle.cpp
 INPUT ../Geometry/Triangle.cpp
 INPUT ../Geometry/Triangle.cpp
+INPUT ../Geometry/PolarSort.cpp
+INPUT ../Geometry/PolarSort.cpp
+INPUT ../Geometry/PolarSort.cpp
+INPUT ../Geometry/PolarSort.cpp
+INPUT ../Geometry/PolarSort.cpp
+INPUT ../Geometry/PolarSort.cpp
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

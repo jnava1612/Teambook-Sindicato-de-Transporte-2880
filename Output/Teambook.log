@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 21:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 21:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -448,7 +448,7 @@ Package hyperref Info: Link coloring OFF on input line 55.
 \@outlinefile=\write4
 \openout4 = `Teambook.out'.
 
-<../Figures/LogoSdT2880.png, id=128, 602.25pt x 429.605pt>
+<../Figures/LogoSdT2880.png, id=132, 602.25pt x 429.605pt>
 File: ../Figures/LogoSdT2880.png Graphic file (type png)
 <use ../Figures/LogoSdT2880.png>
 Package pdftex.def Info: ../Figures/LogoSdT2880.png  used on input line 67.
@@ -508,9 +508,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [13] (../Data Structures/QueueMin.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14])) [15
-
-] [16
+ [14]) (../Data Structures/SparseTable.cpp) (../Data Structures/SparseTableGen.cpp)) [15] [16
 
 ]
 Chapter 3.
@@ -555,7 +553,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=1634, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=1688, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -597,21 +595,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../Geometry/Line.cpp)) [45] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
-(rerunfilecheck)             Checksum: 72FCAA302E1966DB4D52F7B6AEFB6AA9;4229.
+(rerunfilecheck)             Checksum: AD8844A0BC1000BF8B5FED5145EB01AF;4347.
  ) 
 Here is how much of TeX's memory you used:
- 17493 strings out of 476064
- 265554 string characters out of 5794894
+ 17592 strings out of 476064
+ 267115 string characters out of 5794894
  2669340 words of memory out of 5000000
- 35397 multiletter control sequences out of 15000+600000
+ 35440 multiletter control sequences out of 15000+600000
  518817 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,473b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (45 pages, 618029 bytes).
+Output written on Teambook.pdf (45 pages, 622903 bytes).
 PDF statistics:
- 2983 PDF objects out of 2984 (max. 8388607)
- 2872 compressed objects within 29 object streams
- 2159 named destinations out of 2487 (max. 500000)
- 259 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3050 PDF objects out of 3580 (max. 8388607)
+ 2938 compressed objects within 30 object streams
+ 2209 named destinations out of 2487 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 

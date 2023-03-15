@@ -48,10 +48,11 @@
 \contentsline {section}{\numberline {5.17}Subsequence String}{63}{section.5.17}%
 \contentsline {section}{\numberline {5.18}Subset Sum}{63}{section.5.18}%
 \contentsline {section}{\numberline {5.19}TIP}{64}{section.5.19}%
-\contentsline {chapter}{\numberline {6}Geometry}{67}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Points and Lines}{67}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Lines}{69}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Convex Hull}{70}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Polygon}{71}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{73}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Polar Sort}{75}{section.6.4}%
+\contentsline {section}{\numberline {5.20}Atcoder DP Contest}{65}{section.5.20}%
+\contentsline {chapter}{\numberline {6}Geometry}{75}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{75}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{77}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{78}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Polygon}{79}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{81}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Polar Sort}{83}{section.6.4}%

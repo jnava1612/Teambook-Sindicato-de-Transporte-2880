@@ -1173,6 +1173,150 @@ INPUT ../DP/TIP.cpp
 INPUT ../DP/TIP.cpp
 INPUT ../DP/TIP.cpp
 INPUT ../DP/TIP.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/A - Frog 1.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/B - Frog 2.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/C - Vacation.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/D - Knapsack 1.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/E - Knapsack 2.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/F - LCS.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/G - Longest Path.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/H - Grid 1.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/I - Coins.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/J - Sushi.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/K - Stones.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/L - Deque.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/M - Candies.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/N - Slimes.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/O - Matching.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/P - Independent Set.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/Q - Flowers.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/R - Walk.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/S - Digit Sum.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/T - Permutation.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/U - Grouping.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/V - Subtree.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/X - Tower.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
+INPUT ../DP/atcoder/Y - Grid 2.cpp
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex
 INPUT ../Geometry/Geometry.tex

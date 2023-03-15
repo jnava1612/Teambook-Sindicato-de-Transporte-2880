@@ -1060,6 +1060,12 @@ INPUT ../Geometry/ConvexHullMonotone.cpp
 INPUT ../Geometry/ConvexHullMonotone.cpp
 INPUT ../Geometry/ConvexHullMonotone.cpp
 INPUT ../Geometry/ConvexHullMonotone.cpp
+INPUT ../Geometry/Polygon.cpp
+INPUT ../Geometry/Polygon.cpp
+INPUT ../Geometry/Polygon.cpp
+INPUT ../Geometry/Polygon.cpp
+INPUT ../Geometry/Polygon.cpp
+INPUT ../Geometry/Polygon.cpp
 INPUT Teambook.aux
 INPUT ./Teambook.out
 INPUT ./Teambook.out

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  14 MAR 2023 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -490,19 +490,31 @@ Chapter 2.
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../Data Structures/FenwickTree2D.cpp) [8] (../Data Structures/SegmentTree.cpp) (../Data Structures/SegmentTreeIterative.cpp) [9] (../Data Structures/Operations.cpp
+) (../Data Structures/FenwickTree2D.cpp) [8] (../Data Structures/SegmentTree.cpp) (../Data Structures/SegmentTreeIterative.cpp) [9] (../Data Structures/LazyPropagation.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10])) [11
+ [10]) (../Data Structures/LazyPropagation2.cpp
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [12
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12] (../Data Structures/Operations.cpp)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]) [14
 
 ]
 Chapter 3.
-(../Mathematics/Math.tex (../Mathematics/Euclid.cpp) (../Mathematics/FastGCD.cpp) (../Mathematics/HalimGCD.cpp) (../Mathematics/Erathostenes.cpp [13]) (../Mathematics/LinearSieve.cpp) [14] (../Mathematics/ModularInverse.cpp) (../Mathematics/MatrixPower.cpp [15]) (../Mathematics/GaussJordan.cpp) (../Mathematics/Determinant.cpp [16]
+(../Mathematics/Math.tex (../Mathematics/Euclid.cpp) (../Mathematics/FastGCD.cpp) (../Mathematics/HalimGCD.cpp) (../Mathematics/Erathostenes.cpp [15
+
+]) (../Mathematics/LinearSieve.cpp) [16] (../Mathematics/ModularInverse.cpp) (../Mathematics/MatrixPower.cpp [17]) (../Mathematics/GaussJordan.cpp) (../Mathematics/Determinant.cpp [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../Mathematics/Simpson.cpp)) [17] [18
+) (../Mathematics/Simpson.cpp)) [19] [20
 
 ]
 Chapter 4.
@@ -512,35 +524,35 @@ Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on inp
 
 LaTeX Warning: Float too large for page by 70.56041pt on input line 58.
 
-(../Graphs/DFS.cpp) (../Graphs/DFS-application.cpp [19]
+(../Graphs/DFS.cpp) (../Graphs/DFS-application.cpp [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20])
+ [22])
 
 LaTeX Warning: Float too large for page by 70.56041pt on input line 124.
 
-(../Graphs/BFS.cpp [21])
+(../Graphs/BFS.cpp [23])
 
 LaTeX Warning: Float too large for page by 69.4493pt on input line 190.
 
-(../Graphs/Tarjan_y_BlockCutTree.cpp [22]
+(../Graphs/Tarjan_y_BlockCutTree.cpp [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../Graphs/FindBridges.cpp [23]) (../Graphs/FindArticulationPoints.cpp) (../Graphs/Dinic.cpp [24]
+) (../Graphs/FindBridges.cpp [25]) (../Graphs/FindArticulationPoints.cpp) (../Graphs/Dinic.cpp [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 
 LaTeX Warning: Float too large for page by 69.4493pt on input line 272.
 
-(../Graphs/FordFulkerson.cpp [25]
+(../Graphs/FordFulkerson.cpp [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
-<../Figures/ford_fulkerson11.png, id=1294, 197.73875pt x 91.84312pt>
+<../Figures/ford_fulkerson11.png, id=1542, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
 Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
@@ -548,55 +560,55 @@ Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <../Figures/ford_fulkerson11.png>] (../Graphs/Dijkstra.cpp) (../Graphs/Dijkstra-Mod.cpp [28]) (../Graphs/BellmanFord.cpp [29]
+ [29 <../Figures/ford_fulkerson11.png>] (../Graphs/Dijkstra.cpp) (../Graphs/Dijkstra-Mod.cpp [30]) (../Graphs/BellmanFord.cpp [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+ [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)) [31] [32
+)) [33] [34
 
 ]
 Chapter 5.
 (../DP/DP.tex (../DP/dp1.cpp)
 Underfull \vbox (badness 7116) has occurred while \output is active []
 
- (../DP/dp2.cpp [33]) (../DP/dp3.cpp) (../DP/dp4.cpp) (../DP/dp5.cpp) (../DP/dp6.cpp [34]) (../DP/dp7.cpp) (../DP/dp8.cpp [35]) (../DP/knapsack.cpp
+ (../DP/dp2.cpp [35]) (../DP/dp3.cpp) (../DP/dp4.cpp) (../DP/dp5.cpp) (../DP/dp6.cpp [36]) (../DP/dp7.cpp) (../DP/dp8.cpp [37]) (../DP/knapsack.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]) (../DP/DivideAndConquer.cpp)) [37] [38
+ [38]) (../DP/DivideAndConquer.cpp)) [39] [40
 
 ]
 Chapter 6.
-(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [39]
+(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [41]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
+ [42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../Geometry/Line.cpp)) [41] (./Teambook.aux)
+) (../Geometry/Line.cpp)) [43] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: 5AA44BA51489D67BB162AE6973FE4E6B;4078.
  ) 
 Here is how much of TeX's memory you used:
- 17119 strings out of 476064
- 259727 string characters out of 5794894
- 2668340 words of memory out of 5000000
- 35352 multiletter control sequences out of 15000+600000
+ 17394 strings out of 476064
+ 264029 string characters out of 5794894
+ 2669340 words of memory out of 5000000
+ 35382 multiletter control sequences out of 15000+600000
  518817 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,473b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (41 pages, 592380 bytes).
+Output written on Teambook.pdf (43 pages, 610437 bytes).
 PDF statistics:
- 2580 PDF objects out of 2984 (max. 8388607)
- 2477 compressed objects within 25 object streams
- 1839 named destinations out of 2073 (max. 500000)
+ 2876 PDF objects out of 2984 (max. 8388607)
+ 2768 compressed objects within 28 object streams
+ 2078 named destinations out of 2487 (max. 500000)
  251 words of extra memory for PDF output out of 10000 (max. 10000000)
 

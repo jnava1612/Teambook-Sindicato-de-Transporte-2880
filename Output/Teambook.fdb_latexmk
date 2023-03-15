@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1678806141 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678806145 0
+["pdflatex"] 1678842930 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678842936 0
   "../DP/DP.tex" 1677935968 1456 72fb2c388ae7336729a0ddfe6187e8c7 ""
   "../DP/DivideAndConquer.cpp" 1677935802 535 fa8dc93d117b4cc8153950005709871a ""
   "../DP/dp1.cpp" 1677892429 469 f37ce9f57f323fea4b2e26fad4998a38 ""
@@ -11,9 +11,11 @@
   "../DP/dp7.cpp" 1677892429 796 8e93a911ad9f351ac6142bca44e4c7aa ""
   "../DP/dp8.cpp" 1677892429 1068 b2f7eff919eaa631d2791f3d82b62cef ""
   "../DP/knapsack.cpp" 1677935962 1360 5f1219590bb4be1eae7abe8a91930016 ""
-  "../Data Structures/DataStructures.tex" 1678806141 2246 d1c22a5377d30b809191abc641b9c435 ""
+  "../Data Structures/DataStructures.tex" 1678842918 2367 a9893e13061337cff13a5157549c5019 ""
   "../Data Structures/FenwickTree.cpp" 1678144014 733 4a6d90d5ece00fd1bbc29dc0547907ad ""
   "../Data Structures/FenwickTree2D.cpp" 1678149701 499 f2d8bb33f5afdd8e36bacafa7d7c1a03 ""
+  "../Data Structures/LazyPropagation.cpp" 1678806110 2250 ad92a7ecdb520ea5c5891096f44c16eb ""
+  "../Data Structures/LazyPropagation2.cpp" 1678842826 3367 9e03a4bf9512505c88d50d5efc07ab66 ""
   "../Data Structures/Operations.cpp" 1678800672 1490 df5b1798c7e4f2c1910d0d93f85369d1 ""
   "../Data Structures/SegmentTree.cpp" 1678222905 1079 1123b78d2f8bce73c0f069275181ac77 ""
   "../Data Structures/SegmentTreeIterative.cpp" 1678150958 522 8fd07f88e361e92395065081e495ff77 ""
@@ -47,10 +49,10 @@
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Mathematics/Simpson.cpp" 1678131491 209 96c5397b46444ece1d6c87f61079589f ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1678806144 6070 0d6654a2d004a3dcc303010f73898718 "pdflatex"
-  "Teambook.out" 1678806144 4078 5aa44ba51489d67bb162ae6973fe4e6b "pdflatex"
+  "Teambook.aux" 1678842935 6070 cdf1417d5265ba1ccbb0d45c09f88ee4 "pdflatex"
+  "Teambook.out" 1678842935 4078 5aa44ba51489d67bb162ae6973fe4e6b "pdflatex"
   "Teambook.tex" 1678133149 2569 b6fea720eab7dc7477c8c6c1ae05d2a1 ""
-  "Teambook.toc" 1678806144 2346 c2744f411b96ae407954fe1392ebf4f5 "pdflatex"
+  "Teambook.toc" 1678842935 2346 16a9c771dfa371f93bf88ef9fa459954 "pdflatex"
   "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1678133149 2569 b6fea720eab7dc7477c8c6c1ae05d2a1 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""

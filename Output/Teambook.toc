@@ -34,3 +34,4 @@
 \contentsline {subsection}{\numberline {6.1.1}Lines}{45}{subsection.6.1.1}%
 \contentsline {section}{\numberline {6.2}Convex Hull}{46}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Polygon}{47}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{49}{subsection.6.3.1}%

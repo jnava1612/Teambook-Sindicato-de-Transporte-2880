@@ -31,11 +31,11 @@
 \contentsline {chapter}{\numberline {5}Dynamic Programming}{41}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Knapsack Problem}{44}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Divide and Conquer}{45}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Digit DP}{45}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Geometry}{47}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Points and Lines}{47}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Lines}{49}{subsection.6.1.1}%
-\contentsline {section}{\numberline {6.2}Convex Hull}{50}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Polygon}{51}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{53}{subsection.6.3.1}%
-\contentsline {section}{\numberline {6.4}Polar Sort}{55}{section.6.4}%
+\contentsline {section}{\numberline {5.3}Digit DP}{46}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Geometry}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Points and Lines}{49}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Lines}{51}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Convex Hull}{52}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Polygon}{53}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Triangles and Circles}{55}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Polar Sort}{57}{section.6.4}%

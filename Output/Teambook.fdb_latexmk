@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1678845828 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678845835 0
-  "../DP/DP.tex" 1678845818 1768 8f2b77b0bf113f57ccd23c83c8d8d668 ""
+["pdflatex"] 1678846078 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678846085 0
+  "../DP/DP.tex" 1678845892 1809 94a99b30c2ec3aa9e743405b2115b588 ""
   "../DP/DigitDP.cpp" 1678845814 1118 229ad2ed359e4839c55a7575f364a97c ""
   "../DP/DivideAndConquer.cpp" 1677935802 535 fa8dc93d117b4cc8153950005709871a ""
   "../DP/dp1.cpp" 1677892429 469 f37ce9f57f323fea4b2e26fad4998a38 ""
@@ -12,6 +12,7 @@
   "../DP/dp7.cpp" 1677892429 796 8e93a911ad9f351ac6142bca44e4c7aa ""
   "../DP/dp8.cpp" 1677892429 1068 b2f7eff919eaa631d2791f3d82b62cef ""
   "../DP/knapsack.cpp" 1677935962 1360 5f1219590bb4be1eae7abe8a91930016 ""
+  "../DP/knapsack2.cpp" 1678846067 1102 c72925e55800abd6fbe481fdf6828929 ""
   "../Data Structures/DataStructures.tex" 1678843453 3828 53aea83dab4f19363e731ffb8775daa9 ""
   "../Data Structures/FenwickTree.cpp" 1678144014 733 4a6d90d5ece00fd1bbc29dc0547907ad ""
   "../Data Structures/FenwickTree2D.cpp" 1678149701 499 f2d8bb33f5afdd8e36bacafa7d7c1a03 ""
@@ -61,10 +62,10 @@
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Mathematics/Simpson.cpp" 1678131491 209 96c5397b46444ece1d6c87f61079589f ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1678845834 7241 3fa72c803576dd93a8339e3e970c8b16 "pdflatex"
-  "Teambook.out" 1678845834 5376 fd65902d05db8fefcf0fd1e0614b3d5b "pdflatex"
+  "Teambook.aux" 1678846085 7241 31ed0311a1e70ee5a6c3277c7b0528e7 "pdflatex"
+  "Teambook.out" 1678846085 5376 fd65902d05db8fefcf0fd1e0614b3d5b "pdflatex"
   "Teambook.tex" 1678844696 2772 5a6bf9e3504bb828afbc866449dd6bdf ""
-  "Teambook.toc" 1678845834 3107 a7144c845d84d5c1eaf55c95525752e9 "pdflatex"
+  "Teambook.toc" 1678846085 3107 da60727efb570fce28d4e80323154d6d "pdflatex"
   "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1678844696 2772 5a6bf9e3504bb828afbc866449dd6bdf ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  15 MAR 2023 19:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.7)  15 MAR 2023 20:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -528,184 +528,163 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Chapter 4.
 (../Graphs/Graphs.tex
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 8.
-
-
-LaTeX Warning: Float too large for page by 70.56041pt on input line 58.
-
-(../Graphs/DFS.cpp) (../Graphs/DFS-application.cpp [23]
+ (../Graphs/DFS.cpp [23]) (../Graphs/DFS-application.cpp [24])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24])
-
-LaTeX Warning: Float too large for page by 70.56041pt on input line 124.
-
-(../Graphs/BFS.cpp [25])
-
-LaTeX Warning: Float too large for page by 69.4493pt on input line 190.
-
-(../Graphs/Tarjan_y_BlockCutTree.cpp [26]
+ (../Graphs/BFS.cpp [25]) (../Graphs/Tarjan_y_BlockCutTree.cpp [26] [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../Graphs/FindBridges.cpp [27]) (../Graphs/FindArticulationPoints.cpp) (../Graphs/Dinic.cpp [28]
+) (../Graphs/FindBridges.cpp [28]) (../Graphs/FindArticulationPoints.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-
-LaTeX Warning: Float too large for page by 69.4493pt on input line 272.
-
-(../Graphs/FordFulkerson.cpp [29]
+ [29] (../Graphs/Dinic.cpp) [30] (../Graphs/FordFulkerson.cpp [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-)
-<../Figures/ford_fulkerson11.png, id=1887, 197.73875pt x 91.84312pt>
+ [32])
+<../Figures/ford_fulkerson11.png, id=1935, 197.73875pt x 91.84312pt>
 File: ../Figures/ford_fulkerson11.png Graphic file (type png)
 <use ../Figures/ford_fulkerson11.png>
-Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 284.
+Package pdftex.def Info: ../Figures/ford_fulkerson11.png  used on input line 303.
 (pdftex.def)             Requested size: 253.34775pt x 117.67368pt.
-
+ (../Graphs/Dijkstra.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31 <../Figures/ford_fulkerson11.png>] (../Graphs/Dijkstra.cpp) (../Graphs/Dijkstra-Mod.cpp [32]) (../Graphs/BellmanFord.cpp [33]
+ [33 <../Figures/ford_fulkerson11.png>]) (../Graphs/Dijkstra-Mod.cpp) (../Graphs/BellmanFord.cpp [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-) [35] (../Graphs/Hamiltonian.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-Underfull \vbox (badness 6859) has occurred while \output is active []
-
- [37] (../Graphs/Eulerian.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [38]
+ [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39])) [40
+ [36]) (../Graphs/Hamiltonian.cpp [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]) (../Graphs/Eulerian.cpp [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+)) [41] [42
 
 ]
 Chapter 5.
-(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [41
-
-]
+(../Geometry/Geometry.tex (../Geometry/PointsandLines.cpp [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
+ [44]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ) (../Geometry/Line.cpp)
 Underfull \vbox (badness 1629) has occurred while \output is active []
 
- [43] (../Geometry/ConvexHullGraham.cpp) [44] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [45]
+ [45] (../Geometry/ConvexHullGraham.cpp) [46] (../Geometry/ConvexHullMonotone.cpp) (../Geometry/Polygon.cpp [47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46] (../Geometry/Triangle.cpp
+ [48] (../Geometry/Triangle.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]) (../Geometry/PolarSort.cpp)) [49] [50
+ [50]) (../Geometry/PolarSort.cpp)) [51] [52
 
 ]
 Chapter 6.
 (../DP/DP.tex (../DP/dp1.cpp)
 Underfull \vbox (badness 7116) has occurred while \output is active []
 
- (../DP/dp2.cpp [51]) (../DP/dp3.cpp) (../DP/dp4.cpp) (../DP/dp5.cpp) (../DP/dp6.cpp [52]) (../DP/dp7.cpp) (../DP/dp8.cpp [53]) (../DP/knapsack.cpp
+ (../DP/dp2.cpp [53]) (../DP/dp3.cpp) (../DP/dp4.cpp) (../DP/dp5.cpp) (../DP/dp6.cpp [54]) (../DP/dp7.cpp) (../DP/dp8.cpp [55]) (../DP/knapsack.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]) (../DP/knapsack2.cpp) (../DP/DivideAndConquer.cpp [55]) (../DP/DivideAndConquer2.cpp
+ [56]) (../DP/knapsack2.cpp) (../DP/DivideAndConquer.cpp [57]) (../DP/DivideAndConquer2.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [56]) (../DP/DigitDP.cpp)
+ [58]) (../DP/DigitDP.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57] (../DP/alienstrick.cpp)
+ [59] (../DP/alienstrick.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58] (../DP/bitwisedigitdp.cpp) (../DP/BrokenProfile.cpp [59]
+ [60] (../DP/bitwisedigitdp.cpp) (../DP/BrokenProfile.cpp [61]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [60]) (../DP/CHT.cpp
+ [62]) (../DP/CHT.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [61]) (../DP/CHT2.cpp
+ [63]) (../DP/CHT2.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62]
+ [64]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/ExchangeArguments.cpp [63]
+) (../DP/ExchangeArguments.cpp [65]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/ExpectedValue.cpp [64]
+) (../DP/ExpectedValue.cpp [66]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LargestSumContiguousSubarray.cpp [65]
+) (../DP/LargestSumContiguousSubarray.cpp [67]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LargestSquare.cpp [66]) (../DP/LCS.cpp)
+) (../DP/LargestSquare.cpp [68]) (../DP/LCS.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67] (../DP/Lichao.cpp
+ [69] (../DP/Lichao.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68]
+ [70]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/LIS.cpp [69]) (../DP/MaximumMatrixPath.cpp)
+) (../DP/LIS.cpp [71]) (../DP/MaximumMatrixPath.cpp)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70] (../DP/SOSDP.cpp) (../DP/SubsequenceString.cpp [71]) (../DP/SubsetSum.cpp
+ [72] (../DP/SOSDP.cpp) (../DP/SubsequenceString.cpp [73]) (../DP/SubsetSum.cpp
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [72]
+ [74]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (../DP/TIP.cpp [73]) (../DP/atcoder/A - Frog 1.cpp) (../DP/atcoder/B - Frog 2.cpp) (../DP/atcoder/C - Vacation.cpp) (../DP/atcoder/D - Knapsack 1.cpp [74]) (../DP/atcoder/E - Knapsack 2.cpp) (../DP/atcoder/F - LCS.cpp) (../DP/atcoder/G - Longest Path.cpp [75]) (../DP/atcoder/H - Grid 1.cpp) (../DP/atcoder/I - Coins.cpp) (../DP/atcoder/J - Sushi.cpp [76]) (../DP/atcoder/K - Stones.cpp) (../DP/atcoder/L - Deque.cpp) (../DP/atcoder/M - Candies.cpp [77]) (../DP/atcoder/N - Slimes.cpp) (../DP/atcoder/O - Matching.cpp) (../DP/atcoder/P - Independent Set.cpp [78]) (../DP/atcoder/Q - Flowers.cpp) (../DP/atcoder/R - Walk.cpp [79]) (../DP/atcoder/S - Digit Sum.cpp) (../DP/atcoder/T - Permutation.cpp) [80] (../DP/atcoder/U - Grouping.cpp) (../DP/atcoder/V - Subtree.cpp) (../DP/atcoder/X - Tower.cpp [81]) (../DP/atcoder/Y - Grid 2.cpp)) [82] (./Teambook.aux)
+) (../DP/TIP.cpp [75]) (../DP/atcoder/A - Frog 1.cpp) (../DP/atcoder/B - Frog 2.cpp) (../DP/atcoder/C - Vacation.cpp) (../DP/atcoder/D - Knapsack 1.cpp [76]) (../DP/atcoder/E - Knapsack 2.cpp) (../DP/atcoder/F - LCS.cpp) (../DP/atcoder/G - Longest Path.cpp [77]) (../DP/atcoder/H - Grid 1.cpp) (../DP/atcoder/I - Coins.cpp) (../DP/atcoder/J - Sushi.cpp [78]) (../DP/atcoder/K - Stones.cpp) (../DP/atcoder/L - Deque.cpp) (../DP/atcoder/M - Candies.cpp [79]) (../DP/atcoder/N - Slimes.cpp) (../DP/atcoder/O - Matching.cpp) (../DP/atcoder/P - Independent Set.cpp [80]) (../DP/atcoder/Q - Flowers.cpp) (../DP/atcoder/R - Walk.cpp [81]) (../DP/atcoder/S - Digit Sum.cpp) (../DP/atcoder/T - Permutation.cpp) [82] (../DP/atcoder/U - Grouping.cpp) (../DP/atcoder/V - Subtree.cpp) (../DP/atcoder/X - Tower.cpp [83]) (../DP/atcoder/Y - Grid 2.cpp)) [84] (./Teambook.aux)
 Package rerunfilecheck Info: File `Teambook.out' has not changed.
 (rerunfilecheck)             Checksum: D5150EEB0CBA54118BCB1E61BAF772BB;7670.
  ) 
 Here is how much of TeX's memory you used:
- 21195 strings out of 476064
- 323982 string characters out of 5794894
- 2746340 words of memory out of 5000000
+ 21197 strings out of 476064
+ 323996 string characters out of 5794894
+ 2747340 words of memory out of 5000000
  36049 multiletter control sequences out of 15000+600000
  518986 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,774b,2064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Teambook.pdf (82 pages, 877128 bytes).
+Output written on Teambook.pdf (84 pages, 878452 bytes).
 PDF statistics:
- 6704 PDF objects out of 7423 (max. 8388607)
- 6517 compressed objects within 66 object streams
- 5040 named destinations out of 5155 (max. 500000)
+ 6714 PDF objects out of 7423 (max. 8388607)
+ 6525 compressed objects within 66 object streams
+ 5042 named destinations out of 5155 (max. 500000)
  467 words of extra memory for PDF output out of 10000 (max. 10000000)
 

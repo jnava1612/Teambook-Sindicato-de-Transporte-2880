@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1678923807 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678923816 0
+["pdflatex"] 1678925794 "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" "Teambook.pdf" "Teambook" 1678925802 0
   "../DP/BrokenProfile.cpp" 1678923308 3057 1fb53c1452c05dc5b1010b0365590dc6 ""
   "../DP/CHT.cpp" 1678923340 1793 1561859e2de7a0d2fc16030d36b5f671 ""
   "../DP/CHT2.cpp" 1678923396 2340 f685ca0d2a17e702029e2db338748824 ""
@@ -89,7 +89,7 @@
   "../Graphs/FindArticulationPoints.cpp" 1677876310 865 b7ce8bec7f663eeffc9b2c361d6f20ff ""
   "../Graphs/FindBridges.cpp" 1677860057 750 086c250f607a66f2b7d8f44d13bade8a ""
   "../Graphs/FordFulkerson.cpp" 1677846692 3442 1b446088b43ed18fc53a2054ee0a719d ""
-  "../Graphs/Graphs.tex" 1678845416 13582 4eb7cd9833214fb8618b56d49cd7549f ""
+  "../Graphs/Graphs.tex" 1678925785 13904 d515ff63c1b81090f38c650e4cd8349c ""
   "../Graphs/Hamiltonian.cpp" 1678845130 3551 f41acce48f93aab31fcf92a616a3a68e ""
   "../Graphs/Tarjan_y_BlockCutTree.cpp" 1677876981 1889 42bb486d4786dd0e34167cda054f5fe8 ""
   "../Mathematics/Determinant.cpp" 1678131865 1250 470208eacd17b70be3311a0bf9a3500c ""
@@ -104,10 +104,10 @@
   "../Mathematics/ModularInverse.cpp" 1676258133 440 1a637737724a50b5bc012cda11026883 ""
   "../Mathematics/Simpson.cpp" 1678131491 209 96c5397b46444ece1d6c87f61079589f ""
   "../Template.cpp" 1677772799 2134 572c224e7f34025b82539f1a08fb967d ""
-  "Teambook.aux" 1678923816 9254 0ff6386272a62671380d0324ae27fb03 "pdflatex"
-  "Teambook.out" 1678923816 7670 d5150eeb0cba54118bcb1e61baf772bb "pdflatex"
+  "Teambook.aux" 1678925801 9254 e41ceb1289378966303a2f8b4ecb2790 "pdflatex"
+  "Teambook.out" 1678925801 7670 d5150eeb0cba54118bcb1e61baf772bb "pdflatex"
   "Teambook.tex" 1678923038 2772 0459d70199a4e2ca9491b0f029686447 ""
-  "Teambook.toc" 1678923816 4423 6641c87775e39a66b54a7c213b324822 "pdflatex"
+  "Teambook.toc" 1678925801 4423 699c952af9198e99f3d63209ad10a192 "pdflatex"
   "c:/Users/navaj/Documents/UMSS/ICPC/Teambook/Output/Teambook.tex" 1678923038 2772 0459d70199a4e2ca9491b0f029686447 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1675752099 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1675755266 3524 cb3e574dea2d1052e39280babc910dc8 ""

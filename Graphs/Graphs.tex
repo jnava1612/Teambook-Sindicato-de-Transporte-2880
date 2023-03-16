@@ -28,6 +28,11 @@ The DFS algorithm is a recursive algorithm that visits all the nodes of a graph.
 \EndIf
 \EndFor
 \EndProcedure
+\end{algorithmic}
+\end{algorithm}
+\begin{algorithm}
+
+\begin{algorithmic}[1]
 \Procedure{DFSUtil}{$G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$}
 \State $visited[v] \gets true$
 \State $disc[v] \gets time$
@@ -94,6 +99,11 @@ The BFS algorithm is a non-recursive algorithm that visits all the nodes of a gr
 \EndIf
 \EndFor
 \EndProcedure
+\end{algorithmic}
+\end{algorithm}
+\begin{algorithm}
+
+\begin{algorithmic}[1]
 \Procedure{BFSUtil}{$G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$}
 \State $visited[v] \gets true$
 \State $disc[v] \gets time$
@@ -160,6 +170,11 @@ Tarjan's algorithm is an algorithm that is used to find bridges and articulation
 \EndIf
 \EndFor
 \EndProcedure
+\end{algorithmic}
+\end{algorithm}
+\begin{algorithm}
+
+\begin{algorithmic}[1]
 \Procedure{TarjanUtil}{$G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$}
 \State $visited[v] \gets true$
 \State $disc[v] \gets time$
@@ -242,6 +257,10 @@ This algorithm is based on the idea of the BFS algorithm, it is used to find the
 \EndIf
 \EndFor
 \EndProcedure
+\end{algorithmic}
+\end{algorithm}
+\begin{algorithm}
+\begin{algorithmic}[1]
 \Procedure{DinicUtil}{$G$, $v$, $visited$, $time$, $parent$, $low$, $disc$, $AP$, $bridge$}
 \State $visited[v] \gets true$
 \State $disc[v] \gets time$
